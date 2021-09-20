@@ -3,7 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
-- All the students that are willing to attend this class (either in-person or remotely) **must subscribe ASAP** to the Moodle page of the course, as indicated [below](#Moodle-Web-Page).
+- All the students that are willing to attend this class (either in-person or remotely) **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 29 at 11:00AM**. Students are kindly asked to refer to the class schedule at the following [link](https://acsai.di.uniroma1.it/#schedule). For any further information on how to attend classes, please keep an eye on the dedicated [web page](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)
 
 ## General Information
