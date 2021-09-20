@@ -3,11 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
-- **Linee Guida per la Partecipazione alle Lezioni:** In previsione dell'inizio delle lezioni, si invitano **tutti** gli studenti a prendere visione del documento contenente le linee guida per partecipare all'attività didattica del corso, disponibile al seguente [link](./extra/Linee_Guida_Didattica.md).
-- **NUOVO RINVIO INIZIO LEZIONI:** Si comunica che l'inizio delle lezioni del I semestre dell'a.a. 2020-21 è stato posticipato a **lunedì 05/10/2020**, in accordo con quanto pubblicato dal Preside sul [sito web della Facoltà](https://web.uniroma1.it/i3s/node/9341).
-- **IMPORTANTE:** Gli studenti che seguiranno le lezioni in **modalità a distanza** sono pregati di pazientare ancora un po': non appena tutte le istruzioni per l'accesso alle videoconferenze _online_ verranno stabilite in modo definitivo dagli organi competenti, saranno immediatamente rese disponibili sia su questa pagina che sulla [bacheca del docente](https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it).
-- L'inizio delle lezioni del I semestre dell'a.a. 2020-21 è stato fissato per il giorno **~~23~~ 28/09/2020** (anziché 21/09 come originariamente previsto), e l'orario è disponibile al seguente [link](https://www.studiareinformatica.uniroma1.it/laurea/orario-lezioni). Si invitano, inoltre, tutti gli studenti a prendere visione delle informazioni relative alla doppia modalità di svolgimento delle lezioni (in presenza e a distanza), pubblicate sulla [pagina web di Sapienza dedicata](https://www.uniroma1.it/it/notizia/covid-19-fase-3-lezioni-esami-e-lauree-presenza-e-distanza).
-- Si invitano tutti gli studenti intenzionati a frequentare il corso - sia in presenza che a distanza - ad iscriversi **quanto prima** alla pagina Moodle del corso, [come indicato di seguito](#Pagina-Moodle-del-Corso).
+- All the students that are willing to attend this class (either in-person or remotely) **must subscribe ASAP** to the Moodle page of the course, as indicated [below](#Moodle-Web-Page).
+- Classes will start on **Wednesday, September 29 at 11:00AM**. Students are kindly asked to refer to the class schedule at the following [link](https://acsai.di.uniroma1.it/#schedule). For any further information on how to attend classes, please keep an eye on the dedicated [web page](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)
 
 ## General Information
 
@@ -28,15 +25,14 @@ According to the guidelines provided by Sapienza University to contrast the COVI
 Students who are willing to attend classes in presence must issue their request through the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)).
 
 <!--#### Attending Classes Remotely: Zoom
-Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm
+Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm-->
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=12771
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=13817
 
 ### Office Hours
 - **Tuesday** from **2:00PM** to **4:00PM**, Room 106 located at the 1st floor of Building E in viale Regina Elena 295.<br>
 (**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)
--->
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
@@ -44,14 +40,15 @@ Students must subscribe to the Moodle web page using the same credentials (usern
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
 
 ### Description and Goals
-<!--I sistemi operativi sono parte essenziale di un sistema di calcolo e costituiscono l'esempio ideale di un concetto fondamentale e trasversale all'intero percorso di studio in Informatica, ossia quello dell'_astrazione_. 
+The _Operating System_ (OS) is the key component of any modern computing device. Moreover, it very well represents a fundamental concept at the heart of any Computer Science curriculum, namely _abstraction_.
 
-Più specificamente, grazie al processo di virtualizzazione delle risorse fisiche, i sistemi operativi consentono ai programmatori di sviluppare software applicativi evitando di doversi concentrare sui dettagli della macchina hardware, garantendo infine un miglior livello di usabilità da parte dell'utente finale. È pertanto necessario che uno studente di Informatica possieda le basi per comprendere le principali problematiche relative all'efficace progettazione (e utilizzo) di un software altamente complesso come quello di un sistema operativo moderno.
+More specifically, by virtualizing the physical resources of a computer system, OS allows programmers to develop software applications without worrying about the nitty-gritty of the hardware. Decoupling the software from the hardware guarantees more flexibility for the system developer as well as greater usability for the end user.
+It is therefore essential for any Computer Science student to have the ability to comprehend how to effectively and efficiently design and exploit the main functionalities of a highly complex software system, such as a modern operating system.
 
-Allo scopo di fornire tali basi, durante il corso verranno discussi alcuni concetti fondamentali relativi ai sistemi operativi cosiddetti _general purpose_ (tipicamente installati su PC/laptop) e alle loro funzionalità primarie (gestione dei processori, della memoria e dei dispositivi di ingresso/uscita). Verranno altresì forniti cenni sulle caratteristiche principali dei sistemi operativi installati sui dispositivi mobili (tablet/smartphone).
+To this end, we will deeply discuss the key responsibilities of so-called general purpose OSs (i.e., those typically installed on our PCs and laptops). Amongst those responsibilities are: CPU scheduling, process/thread synchronization, memory management, file systems, just to name a few. In addition, we will explore how OSs should adapt to resource-limited mobile devices (i.e., tablets and smartphones).
 
-I concetti generali previsti per il corso, ampiamente coperti dal materiale bibliografico consigliato, verranno discussi a lezione in maniera relativamente indipendente da specifici sistemi operativi. Essi saranno comunque esemplificati facendo riferimento a sistemi operativi noti e di utilizzo comune, come ad esempio UNIX/Linux, Windows, Mac, Android, iOS, etc.
-
+All the concepts introduced are totally covered by the lecture materials provided during the course, and will be treated independently from a specific operating system implementation. However, many examples will be taken from popular OSs available on the market like UNIX/Linux, Windows, macOS, Android, iOS, etc.
+<!--
 ### Exams
 Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi, nonché **obbligati**, a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa opzionale.
 
