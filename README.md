@@ -66,8 +66,9 @@ Despite they are not mandatory for successfully pass the exam, the following tex
  
 <hr>
 
-<!--
 ## Syllabus
+TBA
+<!--
 **Introduzione**
 - Concetti di base
 - Storia dei sistemi operativi
