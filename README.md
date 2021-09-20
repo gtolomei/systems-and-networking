@@ -24,15 +24,15 @@ According to the guidelines provided by Sapienza University to contrast the COVI
 #### Attending Classes in Person: Room 2L - Via del Castro Laurenziano 7a	
 Students who are willing to attend classes in presence must issue their request through the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)).
 
-<!--#### Attending Classes Remotely: Zoom
-Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZUtd-mupz8rGt3uK2Mz_cKmOGDyVQpNmMfm-->
+#### Attending Classes Remotely: Zoom
+Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: **TBA**
 
 ### Moodle Web Page
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=13817
 
 ### Office Hours
-- **Tuesday** from **2:00PM** to **4:00PM**, Room 106 located at the 1st floor of Building E in viale Regina Elena 295.<br>
-(**NOTE:** Due to the COVID-19 emergency, office hours will be exclusively held **online** via Google Meet or Zoom upon email request message sent to the following address: tolomei@di.uniroma1.it)
+- Please, drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you like to arrange an in-person meeting or schedule a remote call either on Google Meet or Zoom.<br/>
+In-person meetings will be held in my office, which is located in Room 106 at the 1st floor of Building E in viale Regina Elena 295.
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
@@ -48,22 +48,24 @@ It is therefore essential for any Computer Science student to have the ability t
 To this end, we will deeply discuss the key responsibilities of so-called general purpose OSs (i.e., those typically installed on our PCs and laptops). Amongst those responsibilities are: CPU scheduling, process/thread synchronization, memory management, file systems, just to name a few. In addition, we will explore how OSs should adapt to resource-limited mobile devices (i.e., tablets and smartphones).
 
 All the concepts introduced are totally covered by the lecture materials provided during the course, and will be treated independently from a specific operating system implementation. However, many examples will be taken from popular OSs available on the market like UNIX/Linux, Windows, macOS, Android, iOS, etc.
+
+### Prerequisites
+- Fundamentals of computer architectures
+- Basics of computer programming
+
 <!--
 ### Exams
-Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi, nonché **obbligati**, a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa opzionale.
+Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi, nonché **obbligati**, a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa opzionale.-->
 
 ### Recommended Textbooks
-Sebbene non obbligatori ai fini del superamento dell'esame, i seguenti libri di testo (preferibilmente in lingua inglese) costituiscono una fonte utile per assimilare più approfonditamente i concetti esposti durante le lezioni:
+Despite they are not mandatory for successfully pass the exam, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
 - _Operating System Concepts_ [Silberschatz _et al._];
 - _Modern Operating Systems_ [Tanenbaum _et al._];
-- _Operating Systems: Three Easy Pieces_ [Remzi] (<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">disponibile gratuitamente online</a>).
-
-I primi due libri sono comunque disponibili anche in versione italiana:
-- _Sistemi Operativi. Concetti ed Esempi_ [Silberschatz _et al._];
-- _I Moderni Sistemi Operativi_ [Tanenbaum _et al._]
+- _Operating Systems: Three Easy Pieces_ [Remzi] (<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">freely available online</a>).
  
 <hr>
 
+<!--
 ## Syllabus
 **Introduzione**
 - Concetti di base
