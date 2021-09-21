@@ -106,7 +106,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 
 ## Class Schedules
 
-| Lecture \# | Date | Topic                                     | Material      | 
+| Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
 <!--| Lezione 1  | 05/10/2020 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
 | Lezione 2  | 07/10/2020 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
