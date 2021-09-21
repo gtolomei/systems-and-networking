@@ -55,8 +55,8 @@ All the concepts introduced are totally covered by the lecture materials provide
 
 
 ### Exams
-TBA
-<!--Per il superamento dell'esame è prevista una **prova scritta**, basata su un quiz Moodle a risposta multipla. Tutti coloro che superano la prova scritta con un punteggio _compreso tra **15** e **17**_ (estremi inclusi) sono ammessi, nonché **obbligati**, a sostenere la successiva **prova orale**. Coloro che, invece, ottengono un punteggio sufficiente (_maggiore o uguale a **18**_) alla prova scritta possono decidere di confermare il voto ottenuto **oppure** sostenere un'ulteriore prova orale integrativa opzionale.-->
+Written and oral exam.
+Written exam consists of a Moodle quiz containing **20 multiple-answer questions**. Each correct answer accounts for 3 points, each wrong answer subtracts 1 point, whilst no answer gives no points. The quiz is successfully passed if the overall score is **greater than or equal to 15/30**. Those who obtain a score ranging between 15/30 and 17/30 must take a mandatory oral exam; instead, those who passed the quiz with a score of 18/30 or higher can decide to accept this as their final score or to take an additional oral exam.
 
 ### Recommended Textbooks
 Despite they are not mandatory for successfully pass the exam, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
@@ -67,37 +67,41 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 <hr>
 
 ## Syllabus
-TBA
-<!--
-**Introduzione**
-- Concetti di base
-- Storia dei sistemi operativi
-- Relazione tra macchina fisica (HW) e sistemi operativi
-- Struttura dei sistemi operativi
+**Part I: Introduction**
+- Basic concepts
+- History of operating systems
+- Relationship between operating systems and hardware
+- Operating systems structure
 
-**Gestione dei Processi**
-- Processi
+**Part II: Process Management**
+- Processes
 - CPU Scheduling
 - Threads
-- Sincronizzazione
+
+**Part III: Process Synchronization**
+- Synchronization Tools
+- Synchronization Examples
 - Deadlock
 
-**Gestione della memoria**
-- Memoria principale (RAM)
-- Memoria virtuale
+**Part IV: Memory Management**
+- Main memory (RAM)
+- Virtual memory
 
-**Gestione dei sistemi di I/O**
-- Dispositivi di memoria di massa
-- Interfaccia del file system
-- Implementazione del file system
-- Sistemi di I/O
+**Part V: Storage Management**
+- Mass storage devices
+- I/O systems
 
-<strike>**Concetti avanzati**</strike> (cancellato causa emergenza COVID-19)
-- ~~Protezione~~
-- ~~Sicurezza~~
-- ~~Sistemi distribuiti~~
-- ~~Sistemi per dispositivi mobili~~
--->
+**Part VI: File System**
+- File system interface
+- File system implementation
+- File system internals
+
+**Part VII: Advanced Topics**
+- Protection
+- Security
+- Distributed operating systems
+- Mobile operating systems
+
 <hr>
 
 ## Class Schedules
