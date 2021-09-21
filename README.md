@@ -25,7 +25,7 @@ According to the guidelines provided by Sapienza University to contrast the COVI
 Students who are willing to attend classes in presence must issue their request through the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)).
 
 #### Attending Classes Remotely: Zoom
-Students who are willing to attend classes remotely online will need to register to the dedicated Zoom conference, using the following link: **TBA**
+Students who are willing to attend classes remotely online will **need to register** to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZMkcuqurDMtE90QEvSpAXG4QJuMjvxIGZrs
 
 ### Moodle Web Page
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=13817
