@@ -32,7 +32,7 @@ Students must subscribe to the Moodle web page using the same credentials (usern
 
 ### Office Hours
 - Please, drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you like to arrange an in-person meeting or schedule a remote call either on Google Meet or Zoom.<br/>
-In-person meetings will be held in my office, which is located in Room 106 at the 1st floor of Building E in viale Regina Elena 295.
+In-person meetings will be held in my office, which is located in Room 106 at the 1st floor of Building E in viale Regina Elena 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
