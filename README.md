@@ -21,7 +21,7 @@ This repository contains class material along with any useful information for th
 ### How to Attend Classes
 According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
 
-#### Attending Classes in Person: Room 2L - [Via del Castro Laurenziano 7a](https://goo.gl/maps/1x9rrSjsiieq41At6)
+#### Attending Classes in Person: Room 2L - Via del Castro Laurenziano 7a ([map](https://goo.gl/maps/1x9rrSjsiieq41At6))
 Students who are willing to attend classes in presence must issue their request through the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)).
 
 #### Attending Classes Remotely: Zoom
