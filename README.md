@@ -108,8 +108,8 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-<!--| Lezione 1  | 05/10/2020 | Introduzione | [slides: <a href="./lectures/slides/01_Intro.pdf" target="_blank">PDF</a>] |
-| Lezione 2  | 07/10/2020 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
+| Lecture 1  | 09/29/2021 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
+<!--| Lezione 2  | 07/10/2020 | Relazione tra Sistema Operativo e Macchina Fisica | [slides: <a href="./lectures/slides/02_OS_and_Computer_Architecture.pdf" target="_blank">PDF</a>]|
 | Lezione 3 | 12/10/2020 | Struttura di un Sistema Operativo | [slides: <a href="./lectures/slides/03_OS_Structure.pdf" target="_blank">PDF</a>]|
 | Lezione 4  | 14/10/2020 | Processi | [slides: <a href="./lectures/slides/04_Processes.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lezioni 5 e 6  | 19/10/2020 - 21/10/2020 | Scheduling della CPU (1) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
