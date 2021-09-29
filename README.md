@@ -71,7 +71,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 - Basic concepts
 - History of operating systems
 - Relationship between operating systems and hardware
-- Operating systems structure
+- Operating systems structures
 
 **Part II: Process Management**
 - Processes
