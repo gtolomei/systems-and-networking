@@ -112,6 +112,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 | Lecture 2  | 09/30/2021 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/02_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3 | 10/06/2021 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/03_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/07/2021 | Basics of OS Process Management | [slides: <a href="./lectures/slides/04_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>]|
+| Lecture 5  | 10/13/2021 | CPU Scheduling (1 of 2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
 <!--| Lezioni 5 e 6  | 19/10/2020 - 21/10/2020 | Scheduling della CPU (1) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>] |
 | Lezioni 7 e 8 | 26/10/2020 - 28/10/2020 | Scheduling della CPU (2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 | Lezioni 9 e 10 | 02/11/2020 - 04/11/2020 | Threads | [slides: <a href="./lectures/slides/06_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
