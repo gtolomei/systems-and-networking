@@ -114,7 +114,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 | Lecture 4  | 10/07/2021 | Basics of OS Process Management | [slides: <a href="./lectures/slides/04_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>]|
 | Lecture 5  | 10/13/2021 | CPU Scheduling (1 of 2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
 | Lecture 6  | 10/14/2021 | CPU Scheduling (2 of 2) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
-| Lecture 7  | 10/20/2021 | Threads | [slides: <a href="./lectures/slides/07_Threads.pdf" target="_blank">PDF</a>]|
+| Lectures 7 & 8  | 10/20/2021-10/21/2021 | Threads | [slides: <a href="./lectures/slides/07-08_Threads.pdf" target="_blank">PDF</a>]|
 <!--| Lezioni 9 e 10 | 02/11/2020 - 04/11/2020 | Threads | [slides: <a href="./lectures/slides/06_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lezioni 11 e 12 | 09/11/2020 - 11/11/2020 | Sincronizzazione tra Processi/Thread (1) | [slides: <a href="./lectures/slides/07_Synchronization_1.pdf" target="_blank">PDF</a>]|
 | Lezione 13 | 16/11/2020 | Sincronizzazione tra Processi/Thread (2) | [slides: <a href="./lectures/slides/07_Synchronization_2.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
