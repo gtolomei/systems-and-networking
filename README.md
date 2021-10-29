@@ -116,6 +116,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 | Lecture 6  | 10/14/2021 | CPU Scheduling (2 of 2) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 | Lectures 7 & 8  | 10/20/2021-10/21/2021 | Threads | [slides: <a href="./lectures/slides/07-08_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 9 | 10/27/2021 | Process/Thread Synchronization (Locks) | [slides: <a href="./lectures/slides/09_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
+| Lecture 10 | 10/28/2021 | Process/Thread Synchronization (Semaphores and Monitors) | [slides: <a href="./lectures/slides/10_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 <!--| Lezione 13 | 16/11/2020 | Sincronizzazione tra Processi/Thread (2) | [slides: <a href="./lectures/slides/07_Synchronization_2.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lezione 14 | 18/11/2020 | Deadlock | [slides: <a href="./lectures/slides/08_Deadlock.pdf" target="_blank">PDF</a>] |
 | Lezione 15 | 23/11/2020 | Gestione della Memoria (1) | [slides: <a href="./lectures/slides/09_Memory_Management.pdf" target="_blank">PDF</a>] |
