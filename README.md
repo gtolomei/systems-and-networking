@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
+- **Exam Dates**: The exam calendar is available at the following [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vTh4dWxcpz4azNu0_L0tQQ99QMpI6FJrjqBjQamDjDOSGN7WOy1Afc0MnlPEobOG20_QIvM9Ui931ch/pubhtml).<br/> 
+**Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, I will circulate an informal registration form where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.  
 - All the students that are willing to attend this class (either in-person or remotely) **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, September 29 at 11:00AM**. Students are kindly asked to refer to the class schedule at the following [link](https://acsai.di.uniroma1.it/#schedule). For any further information on how to attend classes, please keep an eye on the dedicated [web page](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
 
