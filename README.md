@@ -125,6 +125,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 | Lectures 16 | 11/18/2021 | Advanced Paging | [slides: <a href="./lectures/slides/16_Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lectures 17 & 18 | 11/24/2021 - 11/25/2021 | Virtual Memory | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 | Lecture 19 | 12/01/2021 | Mass Storage | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
+| Lecture 20 | 12/02/2021 | Disk Scheduling | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 <!--| Lezione 21 | 14/12/2020 | File System: Interfaccia e Implementazione | [slides: <a href="./lectures/slides/13_File_System.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 
