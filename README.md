@@ -130,6 +130,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 | Lecture 19 | 12/01/2021 | Mass Storage | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/02/2021 | Disk Scheduling | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/09/2021 | File System Interface | [slides: <a href="./lectures/slides/21_File_System_Interface.pdf" target="_blank">PDF</a>] |
+| Lecture 22 | 12/15/2021 | File System Implementation | [slides: <a href="./lectures/slides/22_File_System_Implementation.pdf" target="_blank">PDF</a>] |
 <!--| Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 
 # Anni Precedenti
