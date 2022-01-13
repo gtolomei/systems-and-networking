@@ -3,7 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
-<!--- **Written Exam Session I (01/13/2022) - Grades:** The outcomes of the test are available at the following link: -->
+<!--- **Written Exam Session I (01/13/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-01-13_grades.pdf" target="_blank">link</a>. -->
 - **Written Exam Session I (01/13/2022):** Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/XK9GuTk4p4HQZko99" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Tuesday, January 11, 2022, at 11:59 p.m. CET**; only students that manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
 As a reminder, this exam session is scheduled for **Thursday, January 13, 2022, from 2:00 p.m. to 3:00 p.m. CET** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)).<br/>
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill this form! Besides, everyone can decide to opt-in by the closing date of this poll._<br/>
