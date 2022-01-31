@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
+- **Written Exam Session II (01/31/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-01-31_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session II (01/31/2022):** This session will take place **exclusively online from remote**. There will be **two separate rounds**: the first one is scheduled **from 3:00 p.m. to 4:00 p.m. CET**; the second round, instead, will (tentatively) **start at 5:00 p.m. until 6:00 p.m. CET**.
 - **Written Exam Session II (01/31/2022):** Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/atgA8kchzb1RhwN27" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Wednesday, January 26, 2022 at 11:59 p.m. CET**; only students that manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
 As a reminder, this exam session is scheduled for **Monday, January 31, 2022, from 3:30 p.m. to 4:30 p.m. CET** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)).<br/>
