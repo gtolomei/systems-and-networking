@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
+- **Written Exam Session III (06/07/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-06-07_grades.pdf" target="_blank">link</a>.
 - **Written Exam Summer Sessions III-IV-V (06/07/2022-06/28/2022-09/06/2022):** Registrations to the third, fourth, and fifth written exam sessions are now open!</br>
 Please, log in to your institutional Google account and fill the Google Form(s) corresponding to the session(s) you are planning to attend, as follows.
   - **Session III:** This session is scheduled for **Tuesday, June 7, 2022,** **from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Here is the corresponding <a href="https://forms.gle/ntoFaEMcZ6LLCjci7" target="_blank">Google Form</a>, which closes on **Sunday, June 5, 2022, at 11:59 p.m. CEST**.
