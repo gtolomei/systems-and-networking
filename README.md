@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
+- **Written Exam Session V (09/06/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-09-06_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session IV (06/28/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-06-28_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session III (06/07/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-06-07_grades.pdf" target="_blank">link</a>.
 - **Written Exam Summer Sessions III-IV-V (06/07/2022-06/28/2022-09/06/2022):** Registrations to the third, fourth, and fifth written exam sessions are now open!</br>
