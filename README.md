@@ -1,6 +1,6 @@
 # Systems and Networking - Unit I - 2022-23
 
-[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
+[News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Anni-Precedenti)
 
 ## News
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page). In addition, we remind students to fill out the dedicated Google Form as specified [below](#How-to-Attend-Classes).
@@ -127,9 +127,9 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
 -->
 
-# Anni Precedenti
-In questa sezione è possibile accedere alle informazioni del corso relativamente agli anni accademici precedenti rispetto a quello corrente.
+# Previous Years
+In the following, you can quickly navigate through Big Data Computing class information and material from previous years.
 
-**NOTA:** _La directory che include il materiale didattico è **unica** e il suo contenuto può subire modifiche o aggiornamenti di anno in anno; pertanto, è possibile che vi siano discrepanze tra ciò che è presente su questo sito e ciò che invece è stato mostrato in un determinato anno, diverso da quello corrente._
+**NOTA:** _The folder containing the class material is unique and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what have been shown in class in the past._
 
 - [2021-22](./oldest/2021-22.md)
