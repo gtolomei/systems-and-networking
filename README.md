@@ -94,11 +94,11 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 - File system implementation
 - File system internals
 
-<!--**Part VII: Advanced Topics**
+**Part VII: Advanced Topics**
 - Protection
 - Security
 - Distributed operating systems
-- Mobile operating systems-->
+- Mobile operating systems
 
 <hr>
 
