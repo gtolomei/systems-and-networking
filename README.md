@@ -128,7 +128,7 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 -->
 
 # Previous Years
-In the following, you can quickly navigate through Big Data Computing class information and material from previous years.
+In the following, you can quickly navigate through Systems and Networking I class information and material from previous years.
 
 **NOTA:** _The folder containing the class material is unique and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what have been shown in class in the past._
 
