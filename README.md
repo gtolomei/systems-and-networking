@@ -57,7 +57,7 @@ Written and oral exam.
 Written exam consists of a Moodle quiz containing **20 multiple-answer questions**. Each correct answer accounts for 3 points, each wrong answer subtracts 1 point, whilst no answer gives no points. The quiz is successfully passed if the overall score is **greater than or equal to 15/30**. Those who obtain a score ranging between 15/30 and 17/30 must take a mandatory oral exam; instead, those who passed the quiz with a score of 18/30 or higher can decide to accept this as their final score or to take an additional oral exam.
 
 ### Recommended Textbooks
-Despite they are not mandatory for successfully pass the exam, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
+Despite they are **not** mandatory for successfully pass the exam, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
 - _Operating System Concepts_ [Silberschatz _et al._];
 - _Modern Operating Systems_ [Tanenbaum _et al._];
 - _Operating Systems: Three Easy Pieces_ [Remzi] (<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">freely available online</a>).
