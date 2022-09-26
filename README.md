@@ -4,7 +4,7 @@
 
 ## News
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page). In addition, we remind students to fill out the dedicated [Google Form](https://forms.gle/TZYecGadZ6CDFhQj7) as specified [below](#How-to-Attend-Classes).
-- Classes will start on **Wednesday, September 28 2022**. Students are kindly asked to refer to the class schedule at the following [link](https://acsai.di.uniroma1.it/#schedule).
+- Classes will start on **Wednesday, September 28 2022**. Students are kindly asked to refer to the class schedule at the following [link](https://corsidilaurea.uniroma1.it/cdlcontroller-orari-cdl/2022/30786).
 
 ## General Information
 
