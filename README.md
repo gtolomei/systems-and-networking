@@ -1,31 +1,10 @@
-# Systems and Networking - Unit I (2021-2022)
+# Systems and Networking - Unit I - 2022-23
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) |
 
 ## News
-- **Written Exam Session V (09/06/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-09-06_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session IV (06/28/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-06-28_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session III (06/07/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-06-07_grades.pdf" target="_blank">link</a>.
-- **Written Exam Summer Sessions III-IV-V (06/07/2022-06/28/2022-09/06/2022):** Registrations to the third, fourth, and fifth written exam sessions are now open!</br>
-Please, log in to your institutional Google account and fill the Google Form(s) corresponding to the session(s) you are planning to attend, as follows.
-  - **Session III:** This session is scheduled for **Tuesday, June 7, 2022,** **from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Here is the corresponding <a href="https://forms.gle/ntoFaEMcZ6LLCjci7" target="_blank">Google Form</a>, which closes on **Sunday, June 5, 2022, at 11:59 p.m. CEST**.
-  - **Session IV:**  This session is scheduled for **Tuesday, June 28, 2022,** **from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Here is the corresponding <a href="https://forms.gle/VimFoRPFuH5cJKtV9" target="_blank">Google Form</a>, which closes on **Sunday, June 26, 2022, at 11:59 p.m. CEST**.
-  - **Session V:**  This session is scheduled for **Tuesday, September 6, 2022,** **from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Here is the corresponding <a href="https://forms.gle/SBtKsEd7j7dfqUNA9" target="_blank">Google Form</a>, which closes on **Sunday, September 4, 2022, at 11:59 p.m. CEST**.<br/>
-**GENTLE REMAINDER:** Only students who manifest their willingness to participate before the poll(s) deadline will be allowed to attend the corresponding exam. If you change your mind and don't want to participate in any of the exam sessions anymore, please update your answer on the form(s) accordingly, as this will significantly help me with the organization of the test.<br/>
-**NOTE:** _Students who are sure they will not attend any of these exam sessions **should not** fill these forms! Besides, everyone can decide to opt-in by the closing date of each poll._<br/>
-- **Written Exam Session II (01/31/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-01-31_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session II (01/31/2022):** This session will take place **exclusively online from remote**. There will be **two separate rounds**: the first one is scheduled **from 3:00 p.m. to 4:00 p.m. CET**; the second round, instead, will (tentatively) **start at 5:00 p.m. until 6:00 p.m. CET**.
-- **Written Exam Session II (01/31/2022):** Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/atgA8kchzb1RhwN27" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Wednesday, January 26, 2022 at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
-As a reminder, this exam session is scheduled for **Monday, January 31, 2022, from 3:30 p.m. to 4:30 p.m. CET** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)).<br/>
-**NOTE:** _Students who are sure they will not attend this exam session **should not** fill this form! Besides, everyone can decide to opt-in by the closing date of this poll._<br/>
-- **Written Exam Session I (01/13/2022) - Grades:** The outcomes of the test are available at the following <a href="./exams/2021-22/2022-01-13_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session I (01/13/2022):** Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/XK9GuTk4p4HQZko99" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Tuesday, January 11, 2022, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
-As a reminder, this exam session is scheduled for **Thursday, January 13, 2022, from 2:00 p.m. to 3:00 p.m. CET** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)).<br/>
-**NOTE:** _Students who are sure they will not attend this exam session **should not** fill this form! Besides, everyone can decide to opt-in by the closing date of this poll._<br/>
-- **Exam Dates**: The exam calendar is available at the following <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTh4dWxcpz4azNu0_L0tQQ99QMpI6FJrjqBjQamDjDOSGN7WOy1Afc0MnlPEobOG20_QIvM9Ui931ch/pubhtml" target="_blank">link</a>.<br/> 
-**Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.  
-- All the students that are willing to attend this class (either in-person or remotely) **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
-- Classes will start on **Wednesday, September 29 at 11:00AM**. Students are kindly asked to refer to the class schedule at the following [link](https://acsai.di.uniroma1.it/#schedule). For any further information on how to attend classes, please keep an eye on the dedicated [web page](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
+- All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page). In addition, we remind students to fill out the dedicated Google Form as specified [below](#How-to-Attend-Classes).
+- Classes will start on **Wednesday, September 28 2022**. Students are kindly asked to refer to the class schedule at the following [link](https://acsai.di.uniroma1.it/#schedule).
 
 ## General Information
 
@@ -33,32 +12,31 @@ Welcome to the System and Networking - Unit I class!
 
 This is a second-year, first-semester course of the [BSc in Applied Computer Science and Artificial Intelligence of Sapienza University of Rome](https://acsai.di.uniroma1.it/).
 
-This repository contains class material along with any useful information for the 2021-2022 academic year.
+This repository contains class material along with any useful information for the 2022-23 academic year.
 
 ### Class Schedule
-- **Wednesday** from **11:00AM** to **1:00PM**
-- **Thursday** from **8:00AM** to **11:00AM**
+- **Wednesday** from **1:00 p.m.** to **4:00 p.m.** (Room 2L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
+- **Thursday** from **8:00 a.m.** to **10:00 a.m.** (Room 2L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
 
 ### How to Attend Classes
-According to the guidelines provided by Sapienza University to contrast the COVID-19 pandemic, the course will be held **both** in-person and remotely. For any further information, students must refer to the official documentation available on the [Sapienza website](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions).
+As indicated by the latest rules provided by Sapienza, to prevent and contain the spread of COVID-19 infection, a "lightweight" contact tracing tool has been developed via a dedicated Google Form that can be filled anytime (before, during, or after classes).
 
-#### Attending Classes in Person: Room 2L - Via del Castro Laurenziano 7a ([map](https://goo.gl/maps/1x9rrSjsiieq41At6))
-Students who are willing to attend classes in presence must issue their request through the [Prodigit Sapienza](https://prodigit.uniroma1.it/) online booking system, according to the rules established (please, see [here](https://www.uniroma1.it/en/notizia/covid-19-phase-3-person-and-online-classes-exams-and-graduation-sessions)).
+This will help keep students and the entire Sapienza community safe. Therefore, we kindly ask students willing to attend classes in person to fill out the proper form that can be found at this [link](https://forms.gle/TZYecGadZ6CDFhQj7).
 
-#### Attending Classes Remotely: Zoom
-Students who are willing to attend classes remotely online will **need to register** to the dedicated Zoom conference, using the following link: https://uniroma1.zoom.us/meeting/register/tZMkcuqurDMtE90QEvSpAXG4QJuMjvxIGZrs
+We thank all the students for their collaboration.
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=13817
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=15524
 
 ### Office Hours
 - Please, drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you like to arrange an in-person meeting or schedule a remote call either on Google Meet or Zoom.<br/>
-In-person meetings will be held in my office, which is located in Room 106 at the 1st floor of Building E in viale Regina Elena 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
+In-person meetings will be held in my office, which is located in Room 106 at the 1st floor of Building E in Viale Regina Elena 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
 - Website: https://www.di.uniroma1.it/~tolomei
 - Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
+- Office: Room 106 at the 1st floor of Building E in Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 ### Description and Goals
 The _Operating System_ (OS) is the key component of any modern computing device. Moreover, it very well represents a fundamental concept at the heart of any Computer Science curriculum, namely _abstraction_.
@@ -129,7 +107,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-| Lecture 1  | 09/29/2021 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1  | 09/29/2021 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
 | Lecture 2  | 09/30/2021 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/02_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3 | 10/06/2021 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/03_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/07/2021 | Basics of OS Process Management | [slides: <a href="./lectures/slides/04_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
@@ -148,6 +126,7 @@ Despite they are not mandatory for successfully pass the exam, the following tex
 | Lecture 21 | 12/09/2021 | File System Interface | [slides: <a href="./lectures/slides/21_File_System_Interface.pdf" target="_blank">PDF</a>] |
 | Lecture 22 | 12/15/2021 | File System Implementation | [slides: <a href="./lectures/slides/22_File_System_Implementation.pdf" target="_blank">PDF</a>] |
 | Lezioni 22 - 23 - 24 | 16/12/2020 - 21/12/2020 - 23/12/2020 | Esercitazioni | |
+-->
 
 # Anni Precedenti
 In questa sezione è possibile accedere alle informazioni del corso relativamente agli anni accademici precedenti rispetto a quello corrente.
