@@ -106,9 +106,9 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-<!--| Lecture 1  | 09/29/2021 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
-| Lecture 2  | 09/30/2021 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/02_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
-| Lecture 3 | 10/06/2021 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/03_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
+| Lecture 1  | 09/28/2022 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
+| Lecture 2  | 09/29/2022 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/02_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
+<!--| Lecture 3 | 10/06/2021 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/03_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/07/2021 | Basics of OS Process Management | [slides: <a href="./lectures/slides/04_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lecture 5  | 10/13/2021 | CPU Scheduling (1 of 2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
 | Lecture 6  | 10/14/2021 | CPU Scheduling (2 of 2) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
