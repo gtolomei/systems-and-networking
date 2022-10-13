@@ -111,8 +111,8 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lecture 3  | 10/05/2022 | Computer Architecture and OS Structures (Part II) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/06/2022 | Computer Architecture and OS Structures (Part III) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 5 | 10/12/2022 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/05_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
-<!--| Lecture 4  | 10/07/2021 | Basics of OS Process Management | [slides: <a href="./lectures/slides/04_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
-| Lecture 5  | 10/13/2021 | CPU Scheduling (1 of 2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
+| Lecture 6 | 10/13/2022 | Basics of OS Process Management | [slides: <a href="./lectures/slides/06_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
+<!--| Lecture 5  | 10/13/2021 | CPU Scheduling (1 of 2) | [slides: <a href="./lectures/slides/05_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
 | Lecture 6  | 10/14/2021 | CPU Scheduling (2 of 2) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 | Lectures 7 & 8  | 10/20/2021-10/21/2021 | Threads | [slides: <a href="./lectures/slides/07-08_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 9 | 10/27/2021 | Process/Thread Synchronization (Locks) | [slides: <a href="./lectures/slides/09_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
