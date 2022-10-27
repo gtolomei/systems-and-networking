@@ -114,6 +114,8 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lecture 6 | 10/13/2022 | Basics of OS Process Management (Part I) | [slides: <a href="./lectures/slides/06_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lecture 7 | 10/19/2022 | Basics of OS Process Management (Part II) | [slides: <a href="./lectures/slides/06_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>]|
 | Lecture 8  | 10/20/2022 | CPU Scheduling (Part I) | [slides: <a href="./lectures/slides/07_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
+| Lecture 9  | 10/26/2022 | CPU Scheduling (Part II) | [slides: <a href="./lectures/slides/07_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
+| Lecture 10  | 10/27/2022 | CPU Scheduling (Part III) | [slides: <a href="./lectures/slides/08_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 <!--| Lecture 6  | 10/14/2021 | CPU Scheduling (2 of 2) | [slides: <a href="./lectures/slides/06_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 | Lectures 7 & 8  | 10/20/2021-10/21/2021 | Threads | [slides: <a href="./lectures/slides/07-08_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 9 | 10/27/2021 | Process/Thread Synchronization (Locks) | [slides: <a href="./lectures/slides/09_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
