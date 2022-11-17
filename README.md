@@ -118,8 +118,8 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lecture 10  | 10/27/2022 | CPU Scheduling (Part III) | [slides: <a href="./lectures/slides/08_CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 | Lecture 11  | 11/02/2022 | Threads (Part I) | [slides: <a href="./lectures/slides/09-10_Threads.pdf" target="_blank">PDF</a>] |
 | Lecture 12  | 11/03/2022 | Threads (Part II) | [slides: <a href="./lectures/slides/09-10_Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
-| Lecture 13 | 11/09/2022 | Process/Thread Synchronization (Locks) | [slides: <a href="./lectures/slides/11_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
-| Lecture 14 | 11/10/2022 | Process/Thread Synchronization (Semaphores and Monitors) | [slides: <a href="./lectures/slides/12_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
+| Lectures 13-14 | 11/09/2022-11/10/2022 | Process/Thread Synchronization (Locks) | [slides: <a href="./lectures/slides/11_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
+| Lectures 15-16 | 11/16/2022-11/17/2022 | Process/Thread Synchronization (Semaphores and Monitors) | [slides: <a href="./lectures/slides/12_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 <!--| Lectures 11 & 12  | 11/03/2021-11/04/2021 | Deadlock | [slides: <a href="./lectures/slides/11-12_Deadlock.pdf" target="_blank">PDF</a>]|
 | Lecture 13 | 11/10/2021 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/13_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lectures 14 & 15 | 11/11/2021-11/17/2021 | Memory Management: Contiguous Allocation and Paging | [slides: <a href="./lectures/slides/14-15_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
