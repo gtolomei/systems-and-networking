@@ -3,6 +3,9 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Exam Dates**: The exam calendar is available at the following <a href="https://docs.google.com/spreadsheets/d/1ZIOfFYUO-3kqbcIlY-mubmlZfZnpXNrvnNT_ol3NgWM/edit?usp=sharing" target="_blank">link</a>.<br/> 
+**Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.
+
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page). In addition, we remind students to fill out the dedicated [Google Form](https://forms.gle/TZYecGadZ6CDFhQj7) as specified [below](#How-to-Attend-Classes).
 - Classes will start on **Wednesday, September 28 2022**. Students are kindly asked to refer to the class schedule at the following [link](https://corsidilaurea.uniroma1.it/cdlcontroller-orari-cdl/2022/30786).
 
