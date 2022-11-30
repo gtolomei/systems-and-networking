@@ -132,9 +132,9 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lectures 13-14 | 11/09/2022-11/10/2022 | Process/Thread Synchronization (Locks) | [slides: <a href="./lectures/slides/11_Synchronization_Locks.pdf" target="_blank">PDF</a>]|
 | Lectures 15-16 | 11/16/2022-11/17/2022 | Process/Thread Synchronization (Semaphores and Monitors) | [slides: <a href="./lectures/slides/12_Synchronization_Semaphores_Monitors.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lectures 17-18  | 11/23/2022-11/24/2022 | Deadlock | [slides: <a href="./lectures/slides/13-14_Deadlock.pdf" target="_blank">PDF</a>]|
-<!--| Lecture 13 | 11/10/2021 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/13_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
-| Lectures 14 & 15 | 11/11/2021-11/17/2021 | Memory Management: Contiguous Allocation and Paging | [slides: <a href="./lectures/slides/14-15_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
-| Lectures 16 | 11/18/2021 | Advanced Paging | [slides: <a href="./lectures/slides/16_Advanced_Paging.pdf" target="_blank">PDF</a>] |
+| Lecture 19 | 11/30/2022 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/15_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
+| Lecture 20 | 12/01/2022 | Memory Management: Contiguous Allocation and Paging | [slides: <a href="./lectures/slides/16-17_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
+<!--| Lectures 16 | 11/18/2021 | Advanced Paging | [slides: <a href="./lectures/slides/16_Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lectures 17 & 18 | 11/24/2021 - 11/25/2021 | Virtual Memory | [slides: <a href="./lectures/slides/17-18_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 | Lecture 19 | 12/01/2021 | Mass Storage | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/02/2021 | Disk Scheduling | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
