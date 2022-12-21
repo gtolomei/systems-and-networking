@@ -137,7 +137,7 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lecture 19 | 11/30/2022 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/15_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/01/2022 | Memory Management: Contiguous Allocation and Paging | [slides: <a href="./lectures/slides/16-17_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/07/2022 | Memory Management: Advanced Paging (Segmentation) | [slides: <a href="./lectures/slides/18_Advanced_Paging.pdf" target="_blank">PDF</a>] |
-| Lectures 22 & 23 | 12/07/2022 - 12/14/2022 | Virtual Memory | [slides: <a href="./lectures/slides/19-20_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+| Lectures 22-23-24 | 12/07/2022 - 12/14/2022 - 12/15/2022 | Virtual Memory and Page Replacement | [slides: <a href="./lectures/slides/19-20_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 <!--| Lecture 19 | 12/01/2021 | Mass Storage | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/02/2021 | Disk Scheduling | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/09/2021 | File System Interface | [slides: <a href="./lectures/slides/21_File_System_Interface.pdf" target="_blank">PDF</a>] |
