@@ -102,16 +102,16 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 - Mass storage devices
 - I/O systems
 
-**Part VI: File System**
+<s>**Part VI: File System**
 - File system interface
 - File system implementation
-- File system internals
+- File system internals</s>
 
-**Part VII: Advanced Topics**
+<s>**Part VII: Advanced Topics**
 - Protection
 - Security
 - Distributed operating systems
-- Mobile operating systems
+- Mobile operating systems</s>
 
 <hr>
 
@@ -138,6 +138,8 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lecture 20 | 12/01/2022 | Memory Management: Contiguous Allocation and Paging | [slides: <a href="./lectures/slides/16-17_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/07/2022 | Memory Management: Advanced Paging (Segmentation) | [slides: <a href="./lectures/slides/18_Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lectures 22-23-24 | 12/07/2022 - 12/14/2022 - 12/15/2022 | Virtual Memory and Page Replacement | [slides: <a href="./lectures/slides/19-20_Virtual_Memory.pdf" target="_blank">PDF</a>] |
+| Lecture 25 | 12/21/2022 | Mass Storage | [slides: <a href="./lectures/slides/21_Mass_Storage.pdf" target="_blank">PDF</a>] |
+| Lecture 26 | 12/21/2022 - 12/22/2022 | Disk Scheduling | [slides: <a href="./lectures/slides/22_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 <!--| Lecture 19 | 12/01/2021 | Mass Storage | [slides: <a href="./lectures/slides/19_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/02/2021 | Disk Scheduling | [slides: <a href="./lectures/slides/20_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/09/2021 | File System Interface | [slides: <a href="./lectures/slides/21_File_System_Interface.pdf" target="_blank">PDF</a>] |
