@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Exam Simulations Review on 01/12/2023**<br/>
+The review of the exam simulations will take place on **Thursday, January 12, 2023, exclusively from remote** via Zoom from **9:30 a.m.**. To join this meeting, please follow the instructions provided in the message sent to you via the Moodle forum.
 - **Remote-only Class on 12/07/2022**<br/>
 Our next class will take place on **Wednesday, December 7, 2022, exclusively from remote** via Zoom at the usual time, i.e., from **1:00 p.m. to 4:00 p.m**. To join this meeting, please follow the instructions provided in the message sent to you via the Moodle forum.
 - **Written Exam Session II (02/07/2023):** Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/3kx2ZX1EjQCaKot9A" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Friday, February 3, 2023, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
