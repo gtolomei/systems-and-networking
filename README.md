@@ -3,9 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-<!--
 - **Written Exam Session I (01/19/2023) - Grades:** The outcomes of the test are available at the following <a href="./exams/2022-23/2023-01-19_grades.pdf" target="_blank">link</a>.
--->
 - **Exam Simulations Review on 01/12/2023**<br/>
 The review of the exam simulations will take place on **Thursday, January 12, 2023, exclusively from remote** via Zoom from **9:30 a.m.**. To join this meeting, please follow the instructions provided in the message sent to you via the Moodle forum.
 - **Remote-only Class on 12/07/2022**<br/>
