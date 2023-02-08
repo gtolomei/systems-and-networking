@@ -3,6 +3,7 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--- **Written Exam Session II (02/07/2023) - Grades:** The outcomes of the test are available at the following <a href="./exams/2022-23/2023-02-07_grades.pdf" target="_blank">link</a>.-->
 - **Oral Exam Session I:** The oral exam will take place remotely on a two-day session: **Wednesday, 25, and Thursday, 26 January**. Both sessions are expected to start at **9:30 a.m. CET**. Please refer to the instructions sent via the Moodle forum for further information.
 - **Written Exam Session I (01/19/2023) - Grades:** The outcomes of the test are available at the following <a href="./exams/2022-23/2023-01-19_grades.pdf" target="_blank">link</a>.
 - **Exam Simulations Review on 01/12/2023**<br/>
