@@ -13,6 +13,8 @@ Registrations to the first written exam session are now open via Google Form at 
 As a reminder, this exam session is scheduled for **Tuesday, June 27, 2023, from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 -->
+- **Oral Exam Session III**<br/> 
+The oral exam will take place remotely on a one-day session: **Monday, 12 June, at 10:30 a.m. CEST**. Please refer to the instructions sent via the Moodle forum for further information.
 - **Written Exam Session III (06/07/2023) - Grades**<br/> 
 The outcomes of the test are available at the following <a href="./exams/2022-23/2023-06-07_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session III (06/07/2023)**<br/>
@@ -20,7 +22,7 @@ Registrations to the first written exam session are now open via Google Form at 
 As a reminder, this exam session is scheduled for **Wednesday, June 7, 2023, from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **Oral Exam Session II**<br/> 
-The oral exam will take place remotely on a one-day session: **Friday, 10 February at 9:00 a.m. CET**. Please refer to the instructions sent via the Moodle forum for further information.
+The oral exam will take place remotely on a one-day session: **Friday, 10 February, at 9:00 a.m. CET**. Please refer to the instructions sent via the Moodle forum for further information.
 - **Written Exam Session II (02/07/2023) - Grades**<br/> 
 The outcomes of the test are available at the following <a href="./exams/2022-23/2023-02-07_grades.pdf" target="_blank">link</a>.
 - **Oral Exam Session I**<br/>
