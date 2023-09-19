@@ -1,56 +1,18 @@
-# Systems and Networking - Unit I - 2022-23
+# Systems and Networking - Unit I - 2023-24
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
 
-- **Written Exam Session V (09/12/2023) - Grades**<br/> 
-The outcomes of the test are available at the following <a href="./exams/2022-23/2023-09-12_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session V (09/12/2023)**<br/>
-Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/VHnyRpDNrAe8FRoB9" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Sunday, September 10, 2023, at 11:59 p.m. CEST**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
-As a reminder, this exam session is scheduled for **Tuesday, September 12, 2023, from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
-**NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
-- **Oral Exam Session IV**<br/> 
-The oral exam will take place remotely on a one-day session: **Thursday, 29 June, at 11:00 a.m. CEST**. Please refer to the instructions sent via the Moodle forum for further information.
-- **Written Exam Session IV (06/27/2023) - Grades**<br/> 
-The outcomes of the test are available at the following <a href="./exams/2022-23/2023-06-27_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session IV (06/27/2023)**<br/>
-Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/9PjW3UoQtm4VM4C27" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Sunday, June 25, 2023, at 11:59 p.m. CEST**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
-As a reminder, this exam session is scheduled for **Tuesday, June 27, 2023, from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
-**NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
-- **Oral Exam Session III**<br/> 
-The oral exam will take place remotely on a one-day session: **Monday, 12 June, at 10:30 a.m. CEST**. Please refer to the instructions sent via the Moodle forum for further information.
-- **Written Exam Session III (06/07/2023) - Grades**<br/> 
-The outcomes of the test are available at the following <a href="./exams/2022-23/2023-06-07_grades.pdf" target="_blank">link</a>.
-- **Written Exam Session III (06/07/2023)**<br/>
-Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/ssEJKhSF3hoimJkC7" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Sunday, June 4, 2023, at 11:59 p.m. CEST**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
-As a reminder, this exam session is scheduled for **Wednesday, June 7, 2023, from 3:30 p.m. to 4:30 p.m. CEST** in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
-**NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
-- **Oral Exam Session II**<br/> 
-The oral exam will take place remotely on a one-day session: **Friday, 10 February, at 9:00 a.m. CET**. Please refer to the instructions sent via the Moodle forum for further information.
-- **Written Exam Session II (02/07/2023) - Grades**<br/> 
-The outcomes of the test are available at the following <a href="./exams/2022-23/2023-02-07_grades.pdf" target="_blank">link</a>.
-- **Oral Exam Session I**<br/>
-The oral exam will take place remotely on a two-day session: **Wednesday, 25, and Thursday, 26 January**. Both sessions are expected to start at **9:30 a.m. CET**. Please refer to the instructions sent via the Moodle forum for further information.
-- **Written Exam Session I (01/19/2023) - Grades**<br/>
-The outcomes of the test are available at the following <a href="./exams/2022-23/2023-01-19_grades.pdf" target="_blank">link</a>.
-- **Exam Simulations Review on 01/12/2023**<br/>
-The review of the exam simulations will take place on **Thursday, January 12, 2023, exclusively from remote** via Zoom from **9:30 a.m.**. To join this meeting, please follow the instructions provided in the message sent to you via the Moodle forum.
-- **Remote-only Class on 12/07/2022**<br/>
-Our next class will take place on **Wednesday, December 7, 2022, exclusively from remote** via Zoom at the usual time, i.e., from **1:00 p.m. to 4:00 p.m**. To join this meeting, please follow the instructions provided in the message sent to you via the Moodle forum.
-- **Written Exam Session II (02/07/2023)**<br/>
-Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/3kx2ZX1EjQCaKot9A" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Friday, February 3, 2023, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
-As a reminder, this exam session is scheduled for **Tuesday, February 7, 2023, from 4:00 p.m. to 5:00 p.m. CET** in **Aula Informatica 16**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
-**NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
-- **Written Exam Session I (01/19/2023)**<br/> 
+<!--- **Written Exam Session I (01/19/2023)**<br/> 
 Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/xCaHezp5SbaMfmjH8" target="_blank">link</a>. You must log in to your institutional Google account to access the form. Please, notice that this poll closes on **Sunday, January 15, 2023, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, please update your answer on the form accordingly, as this will significantly help me with the organization of the test.<br/>
 As a reminder, this exam session is scheduled for **Thursday, January 19, 2023, from 4:00 p.m. to 5:00 p.m. CET** in **Aula Informatica 16**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, there will be two consecutive rounds. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **Exam Dates**<br/>
 The exam calendar is available at the following <a href="https://docs.google.com/spreadsheets/d/1ZIOfFYUO-3kqbcIlY-mubmlZfZnpXNrvnNT_ol3NgWM/edit?usp=sharing" target="_blank">link</a>.<br/> 
-**Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.
-- All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page). In addition, we remind students to fill out the dedicated [Google Form](https://forms.gle/TZYecGadZ6CDFhQj7) as specified [below](#How-to-Attend-Classes).
-- Classes will start on **Wednesday, September 28 2022**. Students are kindly asked to refer to the class schedule at the following [link](https://corsidilaurea.uniroma1.it/cdlcontroller-orari-cdl/2022/30786).
+**Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.-->
+- All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
+- Classes will start on **Wednesday, October 4 2023**. Students are kindly asked to refer to the class schedule at the following [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxKYKEawJii_pfprJlr9oZtVy1FTEdyzDl0ucK7eofw5wNJqSc857nSylwYwP9kG7gqToPRwF1_Zd3/pubhtml).
 
 ## General Information
 
@@ -58,25 +20,18 @@ Welcome to the System and Networking - Unit I class!
 
 This is a second-year, first-semester course of the [BSc in Applied Computer Science and Artificial Intelligence of Sapienza University of Rome](https://acsai.di.uniroma1.it/).
 
-This repository contains class material along with any useful information for the 2022-23 academic year.
+This repository contains class material along with any useful information for the 2023-24 academic year.
 
 ### Class Schedule
-- **Wednesday** from **1:00 p.m.** to **4:00 p.m.** (Room 2L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
+- **Wednesday** from **2:00 p.m.** to **5:00 p.m.** (Room 1L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
 - **Thursday** from **8:00 a.m.** to **10:00 a.m.** (Room 2L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
 
-### How to Attend Classes
-As indicated by the latest rules provided by Sapienza, to prevent and contain the spread of COVID-19 infection, a "lightweight" contact tracing tool has been developed via a dedicated Google Form that can be filled anytime (before, during, or after classes).
-
-This will help keep students and the entire Sapienza community safe. Therefore, we kindly ask students willing to attend classes in person to fill out the proper form that can be found at this [link](https://forms.gle/TZYecGadZ6CDFhQj7).
-
-We thank all the students for their collaboration.
-
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=15524
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: **TBA**
 
 ### Office Hours
-Please, drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you like to arrange an in-person meeting or schedule a remote call either on Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2022-23: Meeting_" in the subject of your message.<br/>
-In-person meetings will be held in my office, which is located in Room 106 at the 1st floor of Building E in Viale Regina Elena 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
+Please, drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you like to arrange an in-person meeting or schedule a remote call either on Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2023-24: Meeting_" in the subject of your message.<br/>
+In-person meetings will be held in my office, which is located in Room 106 on the 1st floor of Building E in Viale Regina Elena 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 ### Contacts
 - Email: tolomei@di.uniroma1.it
@@ -90,9 +45,9 @@ The _Operating System_ (OS) is the key component of any modern computing device.
 More specifically, by virtualizing the physical resources of a computer system, OS allows programmers to develop software applications without worrying about the nitty-gritty of the hardware. Decoupling the software from the hardware guarantees more flexibility for the system developer as well as greater usability for the end user.
 It is therefore essential for any Computer Science student to have the ability to comprehend how to effectively and efficiently design and exploit the main functionalities of a highly complex software system, such as a modern operating system.
 
-To this end, we will deeply discuss the key responsibilities of so-called general purpose OSs (i.e., those typically installed on our PCs and laptops). Amongst those responsibilities are: CPU scheduling, process/thread synchronization, memory management, file systems, just to name a few. In addition, we will explore how OSs should adapt to resource-limited mobile devices (i.e., tablets and smartphones).
+To this end, we will deeply discuss the key responsibilities of so-called general-purpose OSs (i.e., those typically installed on our PCs and laptops). Amongst those responsibilities are: CPU scheduling, process/thread synchronization, memory management, and file systems, just to name a few. In addition, we will explore how OSs should adapt to resource-limited mobile devices (i.e., tablets and smartphones).
 
-All the concepts introduced are totally covered by the lecture materials provided during the course, and will be treated independently from a specific operating system implementation. However, many examples will be taken from popular OSs available on the market like UNIX/Linux, Windows, macOS, Android, iOS, etc.
+All the concepts introduced are totally covered by the lecture materials provided during the course and will be treated independently from a specific operating system implementation. However, many examples will be taken from popular OSs available on the market like UNIX/Linux, Windows, macOS, Android, iOS, etc.
 
 ### Prerequisites
 - Fundamentals of computer architectures
@@ -100,10 +55,10 @@ All the concepts introduced are totally covered by the lecture materials provide
 
 ### Exams
 Written and oral exam.
-Written exam consists of a Moodle quiz containing **20 multiple-answer questions**. Each correct answer accounts for 3 points, each wrong answer subtracts 1 point, whilst no answer gives no points. The quiz is successfully passed if the overall score is **greater than or equal to 15/30**. Those who obtain a score ranging between 15/30 and 17/30 must take a mandatory oral exam; instead, those who passed the quiz with a score of 18/30 or higher can decide to accept this as their final score or to take an additional oral exam.
+The written exam consists of a Moodle quiz containing **20 multiple-answer questions**. Each correct answer accounts for 3 points, each wrong answer subtracts 1 point, whilst no answer gives no points. The quiz is successfully passed if the overall score is **greater than or equal to 15/30**. Those who obtain a score ranging between 15/30 and 17/30 must take a mandatory oral exam; instead, those who passed the quiz with a score of 18/30 or higher can decide to accept this as their final score or to take an additional oral exam.
 
 ### Recommended Textbooks
-Despite they are **not** mandatory for successfully pass the exam, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
+Despite they are **not** mandatory to pass the exam successfully, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
 - _Operating System Concepts_ [Silberschatz _et al._];
 - _Modern Operating Systems_ [Tanenbaum _et al._];
 - _Operating Systems: Three Easy Pieces_ [Remzi] (<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">freely available online</a>).
@@ -152,7 +107,7 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-| Lecture 1  | 09/28/2022 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1  | 09/28/2022 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
 | Lecture 2  | 09/29/2022 | Computer Architecture and OS Structures (Part I) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3  | 10/05/2022 | Computer Architecture and OS Structures (Part II) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/06/2022 | Computer Architecture and OS Structures (Part III) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
@@ -172,7 +127,7 @@ Despite they are **not** mandatory for successfully pass the exam, the following
 | Lecture 21 | 12/07/2022 | Memory Management: Advanced Paging (Segmentation) | [slides: <a href="./lectures/slides/18_Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lectures 22-23-24 | 12/07/2022 - 12/14/2022 - 12/15/2022 | Virtual Memory and Page Replacement | [slides: <a href="./lectures/slides/19-20_Virtual_Memory.pdf" target="_blank">PDF</a>] |
 | Lecture 25 | 12/21/2022 | Mass Storage | [slides: <a href="./lectures/slides/21_Mass_Storage.pdf" target="_blank">PDF</a>] |
-| Lecture 26 | 12/21/2022 - 12/22/2022 | Disk Scheduling | [slides: <a href="./lectures/slides/22_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
+| Lecture 26 | 12/21/2022 - 12/22/2022 | Disk Scheduling | [slides: <a href="./lectures/slides/22_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |-->
 
 # Previous Years
 In the following, you can quickly navigate through Systems and Networking I class information and material from previous years.
