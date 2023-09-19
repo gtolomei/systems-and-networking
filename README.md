@@ -36,7 +36,7 @@ In-person meetings will be held in my office, which is located in Room 106 on th
 ### Contacts
 - Email: tolomei@di.uniroma1.it
 - Website: https://www.di.uniroma1.it/~tolomei
-- Bacheca Sapienza: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
+- Sapienza's Wall: https://corsidilaurea.uniroma1.it/it/users/gabrieletolomeiuniroma1it
 - Office: Room 106 at the 1st floor of Building E in Viale Regina Elena, 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 ### Description and Goals
