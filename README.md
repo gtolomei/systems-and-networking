@@ -132,7 +132,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 # Previous Years
 In the following, you can quickly navigate through Systems and Networking I class information and material from previous years.
 
-**NOTA:** _The folder containing the class material is unique and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what has been shown in class in the past._
+**NOTE:** _The folder containing the class material is unique and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what has been shown in class in the past._
 
 - [2022-23](./oldest/2022-23.md)
 - [2021-22](./oldest/2021-22.md)
