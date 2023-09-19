@@ -90,12 +90,12 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 - Mass storage devices
 - I/O systems
 
-<s>**Part VI: File System**
+**Part VI: File System**
 - File system interface
 - File system implementation
 - File system internals</s>
 
-<s>**Part VII: Advanced Topics**
+**Part VII: Advanced Topics**
 - Protection
 - Security
 - Distributed operating systems
