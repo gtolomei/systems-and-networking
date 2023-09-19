@@ -93,13 +93,13 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 **Part VI: File System**
 - File system interface
 - File system implementation
-- File system internals</s>
+- File system internals
 
 **Part VII: Advanced Topics**
 - Protection
 - Security
 - Distributed operating systems
-- Mobile operating systems</s>
+- Mobile operating systems
 
 <hr>
 
