@@ -107,8 +107,8 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-<!--| Lecture 1  | 09/28/2022 | Basics and History of Operating Systems | [slides: <a href="./lectures/slides/01_Basics_and_History.pdf" target="_blank">PDF</a>] |
-| Lecture 2  | 09/29/2022 | Computer Architecture and OS Structures (Part I) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
+| Lecture 1  | 10/04/2023 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/01_Introduction.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 2  | 09/29/2022 | Computer Architecture and OS Structures (Part I) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3  | 10/05/2022 | Computer Architecture and OS Structures (Part II) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/06/2022 | Computer Architecture and OS Structures (Part III) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 5 | 10/12/2022 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/05_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
