@@ -107,7 +107,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-| Lecture 1  | 10/04/2023 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/01_Introduction.pdf" target="_blank">PDF</a>] |
+| Lectures 1-2  | 10/04/2023-10/05/2023 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/01_Introduction.pdf" target="_blank">PDF</a>] |
 <!--| Lecture 2  | 09/29/2022 | Computer Architecture and OS Structures (Part I) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3  | 10/05/2022 | Computer Architecture and OS Structures (Part II) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/06/2022 | Computer Architecture and OS Structures (Part III) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
