@@ -108,10 +108,9 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
 | Lectures 1-2  | 10/04/2023-10/05/2023 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
-| Lecture 3  | 09/29/2022 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
-<!--| Lecture 3  | 10/05/2022 | Computer Architecture and OS Structures (Part II) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
-| Lecture 4  | 10/06/2022 | Computer Architecture and OS Structures (Part III) | [slides: <a href="./lectures/slides/02-03-04_Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
-| Lecture 5 | 10/12/2022 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/05_Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
+| Lecture 3  | 10/11/2023 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
+| Lecture 4  | 10/12/2023 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
+<!--
 | Lecture 6 | 10/13/2022 | Basics of OS Process Management (Part I) | [slides: <a href="./lectures/slides/06_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
 | Lecture 7 | 10/19/2022 | Basics of OS Process Management (Part II) | [slides: <a href="./lectures/slides/06_Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>]|
 | Lecture 8  | 10/20/2022 | CPU Scheduling (Part I) | [slides: <a href="./lectures/slides/07_CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
