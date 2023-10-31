@@ -11,6 +11,7 @@ As a reminder, this exam session is scheduled for **Thursday, January 19, 2023, 
 - **Exam Dates**<br/>
 The exam calendar is available at the following <a href="https://docs.google.com/spreadsheets/d/1ZIOfFYUO-3kqbcIlY-mubmlZfZnpXNrvnNT_ol3NgWM/edit?usp=sharing" target="_blank">link</a>.<br/> 
 **Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.-->
+- **ANNOUNCEMENT:** The upcoming lecture scheduled for **Thursday, November 2, from 8:00 a.m. to 10:00 a.m.** will be held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Wednesday, October 4 2023**. Students are kindly asked to refer to the class schedule at the following [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxKYKEawJii_pfprJlr9oZtVy1FTEdyzDl0ucK7eofw5wNJqSc857nSylwYwP9kG7gqToPRwF1_Zd3/pubhtml).
 
