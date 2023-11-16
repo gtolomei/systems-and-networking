@@ -117,7 +117,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 9  | 11/02/2023 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>]|
 | Lecture 10  | 11/08/2023 | Thread Implementation | [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 11 | 11/09/2023 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
-| Lecture 12 | 11/15/2023 | Synchronization Implementation | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
+| Lectures 12-13 | 11/15/2023-11/16/2023 | Synchronization Implementation | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 <!--| Lectures 17-18  | 11/23/2022-11/24/2022 | Deadlock | [slides: <a href="./lectures/slides/13-14_Deadlock.pdf" target="_blank">PDF</a>]|
 | Lecture 19 | 11/30/2022 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/15_Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/01/2022 | Memory Management: Contiguous Allocation and Paging | [slides: <a href="./lectures/slides/16-17_Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
