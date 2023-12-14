@@ -124,7 +124,8 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 17 | 11/30/2023 | Memory Management: Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 18 | 12/06/2023 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
 | Lecture 19 | 12/07/2023 | Memory Management: Advanced Paging | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
-| Lecture 20 | 12/13/2023 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
+| Lectures 20-21 | 12/13/2023-12/14/2023 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
+| Lecture 22 | 12/20/2023 | Virtual Memory (Part II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 <!--| Lecture 25 | 12/21/2022 | Mass Storage | [slides: <a href="./lectures/slides/21_Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 26 | 12/21/2022 - 12/22/2022 | Disk Scheduling | [slides: <a href="./lectures/slides/22_Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |-->
 
