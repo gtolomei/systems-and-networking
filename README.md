@@ -92,6 +92,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 - Mass storage devices
 - I/O systems
 
+<!--
 **Part VI: File System**
 - File system interface
 - File system implementation
@@ -102,6 +103,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 - Security
 - Distributed operating systems
 - Mobile operating systems
+-->
 
 <hr>
 
