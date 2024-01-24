@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Oral Exam Session I**<br/> 
+The oral exam will take place remotely on a two-day session: **Monday, January 29, at 2:30 p.m. CET** and **Tuesday, January 30, at 9:00 a.m. CET**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Session I (01/23/2024) - Grades**<br/>
 The results of the test are available at the following <a href="./exams/2023-24/2024-01-23_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session I (01/23/2024)**<br/> 
