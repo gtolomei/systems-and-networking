@@ -6,9 +6,9 @@
 <!--
 - **Oral Exam Session II**<br/> 
 The oral exam will take place remotely on a two-day session: **XXX** and **XXX**. Please refer to the instructions sent via the Moodle forum for more information.
+-->
 - **Written Exam Session II (02/13/2024) - Grades**<br/>
 The results of the test are available at the following <a href="./exams/2023-24/2024-02-13_grades.pdf" target="_blank">link</a>.
--->
 - **Written Exam Session II (02/13/2024)**<br/> 
 Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/y33sPGJdgbRHMfLq9" target="_blank">link</a>. You'll need to log in to your institutional Google account so you can access the form. Just so you know, this poll closes on **Friday, February 9, 2024, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
 As a reminder, this exam session is scheduled for **Tuesday, February 13, 2024**, in **two separate rounds**, the first one **from 3:00 p.m. to 4:00 p.m. CET** and the second one **from 4:15 p.m. to 5:15 p.m. CET**. Please refer to the message on the Moodle forum to know which of the two groups you have been assigned to. Both rounds will take place in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. For example, if the number of participants exceeds the room's capacity, two consecutive rounds will occur. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
