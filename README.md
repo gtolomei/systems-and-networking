@@ -3,10 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
-<!--
 - **Oral Exam Session II**<br/> 
-The oral exam will take place remotely on a two-day session: **XXX** and **XXX**. Please refer to the instructions sent via the Moodle forum for more information.
--->
+The oral exam will take place remotely on **Monday, February 19, at 2:00 p.m. CET**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Session II (02/13/2024) - Grades**<br/>
 The results of the test are available at the following <a href="./exams/2023-24/2024-02-13_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session II (02/13/2024)**<br/> 
