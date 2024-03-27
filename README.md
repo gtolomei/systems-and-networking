@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Oral Exam Extra Session**<br/> 
+The extraordinary oral exam will take place remotely on **Thursday, March 28**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Extra Session (03/25/2024) - Grades**<br/>
 The results of the test are available at the following <a href="./exams/2023-24/2024-03-25_grades.pdf" target="_blank">link</a>.
 - **Written Exam Extra Session (03/25/2024)**<br/> 
