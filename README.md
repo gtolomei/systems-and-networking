@@ -3,6 +3,10 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Written Exam Session IV (07/02/2024)**<br/> 
+Registrations to the fourth written exam session are now open via Google Form at the following <a href="https://forms.gle/DJQ8hiAM8idmVXTo8" target="_blank">link</a>. You'll need to log in to your institutional Google account so you can access the form. Just so you know, this poll closes on **Friday, June 28, 2024, at 11:59 p.m. CEST**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
+As a reminder, this exam session is scheduled for **Tuesday, July 2, 2024** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Depending on the number of participants, the exam might be split into two consecutive rounds. More accurate details on the exact schedule will be therefore communicated close to the exam's date.<br/>
+**NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **Oral Exam Session III**<br/> 
 The oral exam will take place remotely on **Monday, June 10, at 2:30 p.m. CEST**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Session III (06/04/2024) - Grades**<br/>
