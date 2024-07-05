@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Oral Exam Session IV**<br/> 
+The oral exam will take place remotely on **Monday, July 8, at 10:30 a.m. CEST (_tentatively_)**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Session IV (07/02/2024) - Grades**<br/>
 The results of the test are available at the following <a href="./exams/2023-24/2024-07-02_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session IV (07/02/2024)**<br/> 
