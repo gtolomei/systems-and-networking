@@ -1,8 +1,9 @@
-# Systems and Networking - Unit I - 2023-24
+# Systems and Networking - Unit I - 2024-25
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--
 - **Written Exam Session V (09/19/2024)**<br/> 
 Registrations to the fifth written exam session are now open via Google Form at the following <a href="https://forms.gle/UWbkHHHiUTYzQeQY6" target="_blank">link</a>. You'll need to log in to your institutional Google account so you can access the form. Just so you know, this poll closes on **Sunday, September 15, 2024, at 11:59 p.m. CEST**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
 As a reminder, this exam session is scheduled for **Thursday, September 19, 2024** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Depending on the number of participants, the exam might be split into two consecutive rounds. More accurate details on the exact schedule will be therefore communicated close to the exam's date.<br/>
@@ -52,8 +53,9 @@ The exam calendar is available at the following <a href="https://docs.google.com
 **Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.
 - **ANNOUNCEMENT:** Different from what was previously announced, our class will **regularly take place on Wednesday, December 6, from 2:00 p.m. to 5:00 p.m.** Apologize for the confusion.
 - **ANNOUNCEMENT:** The upcoming lecture scheduled for **Thursday, November 2, from 8:00 a.m. to 10:00 a.m.** will be held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
+-->
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
-- Classes will start on **Wednesday, October 4 2023**. Students are kindly asked to refer to the class schedule at the following [link](https://docs.google.com/spreadsheets/d/e/2PACX-1vSxKYKEawJii_pfprJlr9oZtVy1FTEdyzDl0ucK7eofw5wNJqSc857nSylwYwP9kG7gqToPRwF1_Zd3/pubhtml).
+- Classes will start on **Tuesday, September 24 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12Y7wLp7DojoBtLqm7fA3TE4R9x4w-J_9/view).
 
 ## General Information
 
@@ -61,14 +63,14 @@ Welcome to the System and Networking - Unit I class!
 
 This is a second-year, first-semester course of the [BSc in Applied Computer Science and Artificial Intelligence of Sapienza University of Rome](https://acsai.di.uniroma1.it/).
 
-This repository contains class material along with any useful information for the 2023-24 academic year.
+This repository contains class material along with any useful information for the 2024-25 academic year.
 
 ### Class Schedule
-- **Wednesday** from **2:00 p.m.** to **5:00 p.m.** (Room 1L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
-- **Thursday** from **8:00 a.m.** to **10:00 a.m.** (Room 2L - Via del Castro Laurenziano, 7 [[map](https://goo.gl/maps/1x9rrSjsiieq41At6)])
+- **Tuesday** from **5:00 p.m.** to **7:00 p.m.** (Room 3 - Via De Lollis [[map]()])
+- **Wednesday** from **4:00 p.m.** to **7:00 p.m.** (Room 11 - Via Scarpa, 7 [[map](])
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: https://elearning.uniroma1.it/course/view.php?id=16988
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: **TBA**
 
 ### Office Hours
 Please, drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you like to arrange an in-person meeting or schedule a remote call either on Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2023-24: Meeting_" in the subject of your message.<br/>
@@ -150,6 +152,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
+<!--
 | Lectures 1-2  | 10/04/2023-10/05/2023 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 3  | 10/11/2023 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/12/2023 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
@@ -169,6 +172,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 22 | 12/20/2023 | Virtual Memory (Part II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lecture 23 | 12/20/2023 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 24 | 12/21/2023 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
+-->
 
 # Previous Years
 In the following, you can quickly navigate through Systems and Networking I class information and material from previous years.
