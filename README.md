@@ -70,7 +70,7 @@ This repository contains class material along with any useful information for th
 - **Wednesday** from **4:00 p.m.** to **7:00 p.m.** (Room 11 - Via Scarpa, 14 [[map](https://maps.app.goo.gl/kzwU5jQY5PDxiRK99)])
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: **TBA**
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=18520
 
 ### Office Hours
 Please drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you would like to arrange an in-person meeting or schedule a remote call either Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2024-25: Meeting_" in the subject of your message.<br/>
