@@ -67,7 +67,7 @@ This repository contains class material along with any useful information for th
 
 ### Class Schedule
 - **Tuesday** from **5:00 p.m.** to **7:00 p.m.** (Room 3 - Via De Lollis [[map]()])
-- **Wednesday** from **4:00 p.m.** to **7:00 p.m.** (Room 11 - Via Scarpa, 7 [[map](])
+- **Wednesday** from **4:00 p.m.** to **7:00 p.m.** (Room 11 - Via Scarpa, 7 [[map]()])
 
 ### Moodle Web Page
 Students must subscribe to the Moodle web page using the same credentials (username/password) to access Wi-Fi network and Infostud services, at the following link: **TBA**
