@@ -66,7 +66,7 @@ This is a second-year, first-semester course of the [BSc in Applied Computer Sci
 This repository contains class material along with any useful information for the 2024-25 academic year.
 
 ### Class Schedule
-- **Tuesday** from **5:00 p.m.** to **7:00 p.m.** (Room 3 - Via De Lollis [[map]()])
+- **Tuesday** from **5:00 p.m.** to **7:00 p.m.** (Room 3 - Via De Lollis using the entrance located at Via Tiburtina, 205 [[map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)])
 - **Wednesday** from **4:00 p.m.** to **7:00 p.m.** (Room 11 - Via Scarpa, 14 [[map](https://maps.app.goo.gl/kzwU5jQY5PDxiRK99)])
 
 ### Moodle Web Page
