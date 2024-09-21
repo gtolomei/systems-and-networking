@@ -54,7 +54,7 @@ The exam calendar is available at the following <a href="https://docs.google.com
 - **ANNOUNCEMENT:** Different from what was previously announced, our class will **regularly take place on Wednesday, December 6, from 2:00 p.m. to 5:00 p.m.** Apologize for the confusion.
 - **ANNOUNCEMENT:** The upcoming lecture scheduled for **Thursday, November 2, from 8:00 a.m. to 10:00 a.m.** will be held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
 -->
-- **NOTICE:** The very first class, scheduled for Tuesday, September 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. Please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).
+- **NOTICE:** The very first class, scheduled for Tuesday, September 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Tuesday, September 24 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12Y7wLp7DojoBtLqm7fA3TE4R9x4w-J_9/view).
 
