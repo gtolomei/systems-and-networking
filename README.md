@@ -51,9 +51,8 @@ As a reminder, this exam session is scheduled for **Tuesday, January 23, 2024**,
 - **Written Exam Dates**<br/>
 The exam calendar is available at the following <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4h0LBmpVwfk5u1DwYNosC-kAfn4LvWj_DesdLRblBAp0Qz-QVdy7KCpbjSupsdyTw_T4X06675Oq2/pubhtml?gid=1216285829&single=true" target="_blank">link</a>.<br/> 
 **Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.
-- **ANNOUNCEMENT:** Different from what was previously announced, our class will **regularly take place on Wednesday, December 6, from 2:00 p.m. to 5:00 p.m.** Apologize for the confusion.
-- **ANNOUNCEMENT:** The upcoming lecture scheduled for **Thursday, November 2, from 8:00 a.m. to 10:00 a.m.** will be held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
 -->
+- **IMPORTANT ANNOUNCEMENT:** The **two lectures** scheduled for **Tuesday, October 1, from 5:00 p.m. to 7:00 p.m.** and **Wednesday, October 2, from 4:00 p.m. to 7:00 p.m.** will be **both** held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
 - **NOTICE:** The very first class, scheduled for today, Tuesday, September 2024, **has been canceled**.
 - ~**NOTICE:** The very first class, scheduled for Tuesday, September 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).~
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
