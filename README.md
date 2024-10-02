@@ -52,10 +52,11 @@ As a reminder, this exam session is scheduled for **Tuesday, January 23, 2024**,
 The exam calendar is available at the following <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS4h0LBmpVwfk5u1DwYNosC-kAfn4LvWj_DesdLRblBAp0Qz-QVdy7KCpbjSupsdyTw_T4X06675Oq2/pubhtml?gid=1216285829&single=true" target="_blank">link</a>.<br/> 
 **Please, notice that there will not be any entry on Infostud associated with "Systems and Networking - Unit I".** Still, to make all our lives easier, I will circulate an **informal registration form** where you can express your intention to attend a specific exam session, amongst those listed in the calendar above.
 -->
+- **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 8, 2024**, will exceptionally take place in **Room 101**, located in Building "D" at Viale Regina Elena, 295 ([map](https://maps.app.goo.gl/wdRtn9U5srXhzhAL6)). For additional information, please take a look at the updated class schedule available [here](https://drive.google.com/file/d/1-10DLoZg4rfd-Ek7kJsL7uNA9t3j65bq/view).
 - **IMPORTANT ANNOUNCEMENT:** The lecture scheduled for today, **Wednesday, October 2, from 4:00 p.m. to 7:00 p.m.** has been officially **canceled**.
 - **IMPORTANT ANNOUNCEMENT:** The **two lectures** scheduled for **Tuesday, October 1, from 5:00 p.m. to 7:00 p.m.** and **Wednesday, October 2, from 4:00 p.m. to 7:00 p.m.** will be **both** held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
-- **NOTICE:** The very first class, scheduled for today, Tuesday, September 2024, **has been canceled**.
-- ~**NOTICE:** The very first class, scheduled for Tuesday, September 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).~
+- **NOTICE:** The very first class, scheduled for today, Tuesday, September 24, 2024, **has been canceled**.
+- ~**NOTICE:** The very first class, scheduled for Tuesday, September 24, 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).~
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Tuesday, September 24 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12Y7wLp7DojoBtLqm7fA3TE4R9x4w-J_9/view).
 
