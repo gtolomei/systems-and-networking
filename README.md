@@ -158,9 +158,9 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 2  | 10/01/2024 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3  | 10/08/2024 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/09/2024 | Basics of OS Process Management | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
-<!--| Lecture 7 | 10/25/2023 | CPU Scheduling (Part I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
-| Lecture 8 | 10/26/2023 | CPU Scheduling (Part II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
-| Lecture 9  | 11/02/2023 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>]|
+| Lecture 5 | 10/15/2024 | CPU Scheduling (Part I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
+| Lecture 6 | 10/16/2024 | CPU Scheduling (Part II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
+<!--| Lecture 9  | 11/02/2023 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>]|
 | Lecture 10  | 11/08/2023 | Thread Implementation | [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 11 | 11/09/2023 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
 | Lectures 12-13 | 11/15/2023-11/16/2023 | Synchronization Implementation | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
