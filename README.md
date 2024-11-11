@@ -167,8 +167,9 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 7  | 10/22/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>]|
 | Lecture 8  | 10/23/2024 | Thread Implementation | [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 9 | 10/29/2024 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
-<!--| Lectures 12-13 | 11/15/2023-11/16/2023 | Synchronization Implementation | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
-| Lectures 14-15  | 11/22/2023-11/24/2023 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>]|
+| Lectures 10 | 11/12/2024 | Synchronization Implementation (Part I) | [slides: <a href="./lectures/slides/Synchronization_Implementation_I.pdf" target="_blank">PDF</a>]|
+| Lectures 10 | 11/13/2024 | Synchronization Implementation (Part II) | [slides: <a href="./lectures/slides/Synchronization_Implementation_II.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
+<!--| Lectures 14-15  | 11/22/2023-11/24/2023 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>]|
 | Lecture 16 | 11/29/2023 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lecture 17 | 11/30/2023 | Memory Management: Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 18 | 12/06/2023 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
