@@ -171,7 +171,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 10 | 11/12/2024 | Synchronization Implementation (Part I) | [slides: <a href="./lectures/slides/Synchronization_Implementation_I.pdf" target="_blank">PDF</a>]|
 | Lecture 11 | 11/13/2024 | Synchronization Implementation (Part II) | [slides: <a href="./lectures/slides/Synchronization_Implementation_II.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lecture 12  | 11/19/2024 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>]|
-| Lecture 13  | 11/20/2024 | Exercises | |
+| Lecture 13  | 11/20/2024 | Exercises | [<a href="./exercises/2024-11-20_Questions.pdf" target="_blank">PDF</a>] |
 <!--| Lecture 16 | 11/29/2023 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lecture 17 | 11/30/2023 | Memory Management: Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 18 | 12/06/2023 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
