@@ -176,9 +176,9 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 13  | 11/20/2024 | Exercises | [<a href="./exercises/2024-11-20_Questions.pdf" target="_blank">PDF</a>] |
 | Lecture 14 | 11/26/2024 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lecture 15 | 11/27/2024 | Memory Management: Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
-<!--| Lecture 18 | 12/06/2023 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
-| Lecture 19 | 12/07/2023 | Memory Management: Advanced Paging | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
-| Lectures 20-21 | 12/13/2023-12/14/2023 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
+| Lecture 16 | 12/03/2024 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
+| Lecture 17 | 12/04/2024 | Memory Management: Advanced Paging | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
+<!--| Lectures 20-21 | 12/13/2023-12/14/2023 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 22 | 12/20/2023 | Virtual Memory (Part II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lecture 23 | 12/20/2023 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 24 | 12/21/2023 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
