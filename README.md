@@ -177,9 +177,8 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 17 | 12/04/2024 | Memory Management: Advanced Paging | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lecture 18 | 12/10/2024 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 19 | 12/11/2024 | Virtual Memory (Part II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
-<!--| Lecture 23 | 12/20/2023 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
-| Lecture 24 | 12/21/2023 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
--->
+| Lecture 20 | 12/17/2024 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
+| Lecture 21 | 12/18/2024 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 
 # Previous Years
 In the following, you can quickly navigate through Systems and Networking I class information and material from previous years.
