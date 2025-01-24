@@ -42,9 +42,9 @@ As a reminder, this exam session is scheduled for **Tuesday, February 11, 2025**
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **Oral Exam Session I**<br/> 
 The oral exam will take place remotely on a two-day session: **Monday, January 29, at 2:30 p.m. CET** and **Tuesday, January 30, at 9:00 a.m. CET**. Please refer to the instructions sent via the Moodle forum for more information.
-- **Written Exam Session I (01/23/2025) - Grades**<br/>
-The results of the test are available at the following <a href="./exams/2023-24/2024-01-23_grades.pdf" target="_blank">link</a>.
 -->
+- **Written Exam Session I (01/23/2025) - Grades**<br/>
+The results of the test are available at the following <a href="./exams/2024-25/2025-01-23_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session I (01/23/2025)**<br/>
 Registrations to the first written exam session are now open via Google Form at the following <a href="https://forms.gle/h97Q9iJwjsvpwE5W8" target="_blank">link</a>. You'll need to log in to your institutional Google account to access the form. Just so you know, this poll closes on **Sunday, January 19, 2025, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
 This exam session is scheduled for **Thursday, January 23, 2025**, on **two distinct rounds**: the first one will take place **from 1:30 p.m. to 2:15 p.m. CET**, while the second one is **from 2:30 p.m. to 3:15 p.m. CET**. Both rounds will be held in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Please notice that the time schedule above is **_tentative_**, and slight changes might occur if needed.<br/>
