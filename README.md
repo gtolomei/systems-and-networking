@@ -34,9 +34,9 @@ This exam session is scheduled for **Monday, March 25, 2024,** **from 2:30 p.m. 
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **Oral Exam Session II**<br/> 
 The oral exam will take place remotely on **Monday, February 19, at 2:00 p.m. CET**. Please refer to the instructions sent via the Moodle forum for more information.
-- **Written Exam Session II (02/11/2025) - Grades**<br/>
-The results of the test are available at the following <a href="./exams/2023-24/2024-02-13_grades.pdf" target="_blank">link</a>.
 -->
+- **Written Exam Session II (02/11/2025) - Grades**<br/>
+The results of the test are available at the following <a href="./exams/2024-25/2025-02-11_grades.pdf" target="_blank">link</a>.
 - **Written Exam Session II (02/11/2025)**<br/>
 Registrations to the second written exam session are now open via Google Form at the following <a href="https://forms.gle/ADVJkrgdR8XtbeHH8" target="_blank">link</a>. You'll need to log in to your institutional Google account to access the form. Just so you know, this poll closes on **Friday, February 7, 2025, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
 This exam session is scheduled for **Tuesday, February 11, 2025** in **Aula Informatica 15**, on **two distinct rounds**: the first one will take place **from 2:00 p.m. to 2:45 p.m. CET**, while the second one is **from 3:00 p.m. to 3:45 p.m. CET**. Both rounds will be held in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Please notice that the time schedule above is **_tentative_**, and slight changes might occur if needed.<br/>
