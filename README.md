@@ -33,9 +33,12 @@ Registrations to the _**extra**_ written exam session are now open via Google Fo
 This exam session is scheduled for **Monday, March 25, 2024,** **from 2:30 p.m. to 3:30 p.m. CET** and will take place in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed. Further details on how to attend this test will be therefore communicated close to the exam's date.<br/>
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 -->
+
+
 - **Written Exam Extra Session (03/25/2025)**<br/> 
 The written extra session is scheduled for **Tuesday, March 25, 2025, at 2:30 p.m.** and will take place in **Laboratorio Colossus**, located in Via Salaria, 113 ([map](https://maps.app.goo.gl/rsyaLFf7boJZDawDA)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed.
-I remind you that **only eligible students who submit their request within the deadlines set by the academic office will be allowed to register for this exam**. For organizational reasons, **no exceptions will be made**. Further updates regarding the opening of the corresponding Google Form will follow, and students should register as soon as the academic office provides the list of applicants.<br/>
+I remind you that **only eligible students who submit their request within the deadlines set by the academic office will be allowed to register for this exam**. For organizational reasons, **no exceptions will be made**.<br/>
+Registrations to this extra exam session are now open via Google Form at the following <a href="https://forms.gle/o2qDvnb5QkDmx3SD8" target="_blank">link</a>. You'll need to log in to your institutional Google account to access the form. Just so you know, this poll closes on **Friday, March 21, 2025, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
 - **Oral Exam Session II**<br/> 
 The oral exam will take place on a two-day session: **Monday, February 17, at 9:30 a.m. CET** and **Wednesday, February 19, at 9:30 a.m. CET**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Session II (02/11/2025) - Grades**<br/>
