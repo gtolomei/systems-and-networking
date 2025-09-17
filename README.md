@@ -1,8 +1,9 @@
-# Systems and Networking - Unit I - 2024-25
+# Systems and Networking - Unit I - 2025-26
 
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+<!--
 - **Written Exam Session V (09/09/2025)**<br/> 
 Registrations to the fifth written exam session are now open via Google Form at the following <a href="https://forms.gle/nqnsJtRS7jo3EJhGA" target="_blank">link</a>. You'll need to log in to your institutional Google account so you can access the form. Just so you know, this poll closes on **Friday, September 5, 2025, at 11:59 p.m. CEST**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
 As a reminder, this exam session is scheduled for **Tuesday, September 9, 2025, at 2:30 p.m.** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). ~Depending on the number of participants, the exam might be split into two consecutive rounds. More accurate details on the exact schedule will be communicated close to the exam date.~<br/>
@@ -62,24 +63,27 @@ This exam session is scheduled for **Thursday, January 23, 2025**, on **two dist
 - ~**NOTICE:** The very first class, scheduled for Tuesday, September 24, 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).~
 - All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
 - Classes will start on **Tuesday, September 24 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12Y7wLp7DojoBtLqm7fA3TE4R9x4w-J_9/view).
+-->
 
 ## General Information
 
 Welcome to the System and Networking - Unit I class!
 
-This is a second-year, first-semester course of the [BSc in Applied Computer Science and Artificial Intelligence of Sapienza University of Rome](https://acsai.di.uniroma1.it/).
+This is a second-year, first-semester course of the [BSc in Applied Computer Science and Artificial Intelligence of Sapienza University of Rome](https://corsidilaurea.uniroma1.it/it/course/33502).
 
-This repository contains class material along with any useful information for the 2024-25 academic year.
+This repository contains class material along with any useful information for the 2025-26 academic year.
 
 ### Class Schedule
-~- **Tuesday** from **5:00 p.m.** to **7:00 p.m.** (Room 3 - Via De Lollis using the entrance located at Via Tiburtina, 205 [[map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)])~
-- **Wednesday** from **4:00 p.m.** to **7:00 p.m.** (Room 11 - Via Scarpa, 14 [[map](https://maps.app.goo.gl/kzwU5jQY5PDxiRK99)])
+- **Tuesday** from **4:00 PM** to **7:00 PM** 
+- **Thursday** from **3:00 PM** to **5:00 PM**
+
+Both classes will take place in **Room 3 at Via De Lollis** (RM158). Please use the entrance located at Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5))
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=18520
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: **TBA**
 
 ### Office Hours
-Please drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you would like to arrange an in-person meeting or schedule a remote call either Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2024-25: Meeting_" in the subject of your message.<br/>
+Please drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you would like to arrange an in-person meeting or schedule a remote call on either Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2025-26: Meeting_" in the subject of your message.<br/>
 In-person meetings will be held in my office, which is located in Room 106 on the 1st floor of Building E in Viale Regina Elena 295 ([map](https://goo.gl/maps/5dSuQbvaeqXePV9y6)).
 
 ### Contacts
@@ -91,23 +95,36 @@ In-person meetings will be held in my office, which is located in Room 106 on th
 ### Description and Goals
 The _Operating System_ (OS) is the key component of any modern computing device. Moreover, it very well represents a fundamental concept at the heart of any Computer Science curriculum, namely _abstraction_.
 
-More specifically, by virtualizing the physical resources of a computer system, OS allows programmers to develop software applications without worrying about the nitty-gritty of the hardware. Decoupling the software from the hardware guarantees more flexibility for the system developer as well as greater usability for the end user.
+More specifically, by virtualizing the physical resources of a computer system, the OS allows programmers to develop software applications without worrying about the nitty-gritty of the hardware. Decoupling the software from the hardware guarantees more flexibility for the system developer as well as greater usability for the end user.
 It is therefore essential for any Computer Science student to have the ability to comprehend how to effectively and efficiently design and exploit the main functionalities of a highly complex software system, such as a modern operating system.
 
 To this end, we will deeply discuss the key responsibilities of so-called general-purpose OSs (i.e., those typically installed on our PCs and laptops). Amongst those responsibilities are: CPU scheduling, process/thread synchronization, memory management, and file systems, just to name a few. In addition, we will explore how OSs should adapt to resource-limited mobile devices (i.e., tablets and smartphones).
 
-All the concepts introduced are totally covered by the lecture materials provided during the course and will be treated independently from a specific operating system implementation. However, many examples will be taken from popular OSs available on the market like UNIX/Linux, Windows, macOS, Android, iOS, etc.
+All the concepts introduced are totally covered by the lecture materials provided during the course and will be treated independently of a specific operating system implementation. However, many examples will be taken from popular OSs available on the market, like UNIX/Linux, Windows, macOS, Android, iOS, etc.
 
 ### Prerequisites
 - Fundamentals of computer architectures
 - Basics of computer programming
 
 ### Exams
-Written and oral exam.
-The written exam consists of a Moodle quiz containing **20 multiple-answer questions**. Each correct answer accounts for 3 points, each wrong answer subtracts 1 point, whilst no answer gives no points. The quiz is successfully passed if the overall score is **greater than or equal to 15/30**. Those who obtain a score ranging between 15/30 and 17/30 must take a mandatory oral exam; instead, those who passed the quiz with a score of 18/30 or higher can decide to accept this as their final score or to take an additional oral exam.
+To pass the exam, a **mandatory written test** is required, consisting of a **Moodle multiple-choice quiz** lasting **45 minutes**, which will take place in the laboratory.  
+The outcome of the written test determines the following conditions:
+
+| Written Score | Outcome | Oral Exam |
+|---------------|---------|-----------|
+| **[15, 17]**  | Admitted to oral exam | **Mandatory** |
+| **≥ 18**      | Sufficient | **Optional** (the student can confirm the grade or take an additional oral exam) |
+| **< 15**      | Not passed | -- |
+
+**Note:**  
+*(a)* With a score in the range **[15, 17]**, the oral exam is **required** to pass the exam.  
+*(b)* With a score **≥18**, the oral exam is an **optional choice for the student**.  
+*(c)* With a score **<15**, the exam is **not passed**, and the written test must be retaken in a subsequent session.
+
+In cases *(a)* and *(b)*, it is always possible to **decline** the grade obtained in the written test. Even in this case, the written test must be retaken in a subsequent session.
 
 ### Recommended Textbooks
-Despite they are **not** mandatory to pass the exam successfully, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
+Although they are **not** mandatory to pass the exam successfully, the following textbooks are really useful to anyone who wants to dig deeper into the subjects addressed in this course:
 - _Operating System Concepts_ [Silberschatz _et al._];
 - _Modern Operating Systems_ [Tanenbaum _et al._];
 - _Operating Systems: Three Easy Pieces_ [Remzi] (<a href="http://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank">freely available online</a>).
@@ -144,7 +161,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 - File system implementation
 - File system internals
 
-**Part VII: Advanced Topics**
+**Part VII: Advanced Topics(?)**
 - Protection
 - Security
 - Distributed operating systems
@@ -156,7 +173,7 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 
 | Lecture \# | Date | Topic                                         | Material       | 
 |------------|------|-----------------------------------------------|----------------|
-| Lecture 1  | 09/25/2024 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
+<!--| Lecture 1  | 09/25/2024 | Introduction and Basic Concepts | [slides: <a href="./lectures/slides/Introduction.pdf" target="_blank">PDF</a>] |
 | Lecture 2  | 10/01/2024 | Computer Architecture and OS Structures | [slides: <a href="./lectures/slides/Computer_Architecture_and_OS_Structures.pdf" target="_blank">PDF</a>]|
 | Lecture 3  | 10/08/2024 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/09/2024 | Basics of OS Process Management | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
@@ -178,12 +195,14 @@ Despite they are **not** mandatory to pass the exam successfully, the following 
 | Lecture 20 | 12/17/2024 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/18/2024 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lecture 22  | 12/18/2024 | Exercises | [<a href="./exercises/2024-12-18_Questions.pdf" target="_blank">PDF</a>] |
+-->
 
-# Previous Years
+## Previous Years
 In the following, you can quickly navigate through Systems and Networking I class information and material from previous years.
 
 **NOTE:** _The folder containing the class material is unique and it is subject to changes and/or updates; as such, there may be differences between the content displayed on this website and what has been shown in class in the past._
 
+- [2024-25](./oldest/2024-25.md)
 - [2023-24](./oldest/2023-24.md)
 - [2022-23](./oldest/2022-23.md)
 - [2021-22](./oldest/2021-22.md)
