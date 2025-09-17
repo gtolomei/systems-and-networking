@@ -80,7 +80,7 @@ This repository contains class material along with any useful information for th
 Both classes will take place in **Room 3 at Via De Lollis** (RM158). Please use the entrance located at Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5))
 
 ### Moodle Web Page
-Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: **TBA**
+Students must subscribe to the Moodle web page using the same credentials (username/password) to access the Wi-Fi network and Infostud services at the following link: https://elearning.uniroma1.it/course/view.php?id=20053
 
 ### Office Hours
 Please drop me a message to <a href="mailto:tolomei@di.uniroma1.it">tolomei@di.uniroma1.it</a> if you would like to arrange an in-person meeting or schedule a remote call on either Google Meet or Zoom. To issue your request, kindly specify "_SN-I 2025-26: Meeting_" in the subject of your message.<br/>
