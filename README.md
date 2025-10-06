@@ -178,9 +178,8 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lecture 3  | 09/30/2025 | Process Virtual Address Space and PCB | [slides: <a href="./lectures/slides/Process_Virtual_Address_Space_and_PCB.pdf" target="_blank">PDF</a>]|
 | Lecture 4  | 10/02/2025 | Basics of OS Process Management | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] |
 | Lecture 5  | 10/07/2025 | The Process Lifecycle | [slides: <a href="./lectures/slides/Basics_of_OS_Process_Management.pdf" target="_blank">PDF</a>] [<a href="./code/processes.tgz" download="processes.tgz">code</a>]|
-<!--
-| Lecture 5 | 10/15/2024 | CPU Scheduling (Part I) | [slides: <a href="./lectures/slides/CPU_Scheduling_1.pdf" target="_blank">PDF</a>]|
-| Lecture 6 | 10/16/2024 | CPU Scheduling (Part II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
+| Lecture 6 | 10/09/2025 | Introduction to CPU Scheduling | [slides: <a href="./lectures/slides/CPU_Scheduling_Introduction.pdf" target="_blank">PDF</a>]|
+<!--| Lecture 6 | 10/16/2024 | CPU Scheduling (Part II) | [slides: <a href="./lectures/slides/CPU_Scheduling_2.pdf" target="_blank">PDF</a>]|
 | Lecture 7  | 10/22/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>]|
 | Lecture 8  | 10/23/2024 | Thread Implementation | [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 9 | 10/29/2024 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
