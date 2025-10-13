@@ -181,6 +181,7 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lecture 6 | 10/09/2025 | Introduction to CPU Scheduling | [slides: <a href="./lectures/slides/CPU_Scheduling_Introduction.pdf" target="_blank">PDF</a>]|
 | Lecture 7 | 10/14/2025 | CPU Scheduling Algorithms (Part I) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_I.pdf" target="_blank">PDF</a>]|
 <!--
+| Lecture 8 | 10/16/2025 | CPU Scheduling Algorithms (Part II) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_II.pdf" target="_blank">PDF</a>]|
 | Lecture 7  | 10/22/2024 | Threads | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>]|
 | Lecture 8  | 10/23/2024 | Thread Implementation | [slides: <a href="./lectures/slides/Thread_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 9 | 10/29/2024 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
