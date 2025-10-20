@@ -57,13 +57,9 @@ This exam session is scheduled for **Thursday, January 23, 2025**, on **two dist
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 22, 2024**, will exceptionally take place in **Room A2 "Luigi Capozzi"**, located in Via Caserta, 6 ([map](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). For additional information, please take a look at the updated class schedule available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=2076434169&single=true&urp=gmail_link).
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 15, 2024**, will exceptionally take place in **Room 101**, located in Building "D" at Viale Regina Elena, 295 ([map](https://maps.app.goo.gl/wdRtn9U5srXhzhAL6)). For additional information, please take a look at the updated class schedule available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1093460107&single=true&urp=gmail_link).
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 8, 2024**, will exceptionally take place in **Room 101**, located in Building "D" at Viale Regina Elena, 295 ([map](https://maps.app.goo.gl/wdRtn9U5srXhzhAL6)). For additional information, please take a look at the updated class schedule available [here](https://drive.google.com/file/d/1-10DLoZg4rfd-Ek7kJsL7uNA9t3j65bq/view).
-- **IMPORTANT ANNOUNCEMENT:** The lecture scheduled for today, **Wednesday, October 2, from 4:00 p.m. to 7:00 p.m.** has been officially **canceled**.
-- **IMPORTANT ANNOUNCEMENT:** The **two lectures** scheduled for **Tuesday, October 1, from 5:00 p.m. to 7:00 p.m.** and **Wednesday, October 2, from 4:00 p.m. to 7:00 p.m.** will be **both** held remotely via Zoom. For more information, please take a look at the message sent on the Moodle forum.
-- **NOTICE:** The very first class, scheduled for today, Tuesday, September 24, 2024, **has been canceled**.
-- ~**NOTICE:** The very first class, scheduled for Tuesday, September 24, 2024, will exceptionally take place in **Room A "Pietro Benedetti"**. For additional information, please take a look at the first-week class schedule available [here](https://drive.google.com/file/d/1QODiZffviVD7sYEAIrCu0CUFOKmlMBTK/view).~
-- All the students that are willing to attend this class **must subscribe ASAP** to the Moodle web page of the course, as indicated [below](#Moodle-Web-Page).
-- Classes will start on **Tuesday, September 24 2024**. Students are kindly asked to refer to the class schedule at the following [link](https://drive.google.com/file/d/12Y7wLp7DojoBtLqm7fA3TE4R9x4w-J_9/view).
+- **IMPORTANT ANNOUNCEMENT:** The lecture scheduled for **Thursday, November 6** is **canceled**.
 -->
+- **IMPORTANT ANNOUNCEMENT:** Classes are **suspended from Thursday, October 30 to Wednesday, November 5, inclusive**.
 
 ## General Information
 
