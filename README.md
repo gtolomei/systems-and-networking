@@ -178,8 +178,8 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lecture 7 | 10/14/2025 | CPU Scheduling Algorithms (Part I) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_I.pdf" target="_blank">PDF</a>]|
 | Lecture 8 | 10/16/2025 | CPU Scheduling Algorithms (Part II) | [slides: <a href="./lectures/slides/CPU_Scheduling_Algorithms_II.pdf" target="_blank">PDF</a>]|
 | Lecture 9  | 10/21/2025 | Threads: Basics and Implementation | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
-<!--
 | Lecture 10 | 10/23/2025 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
+<!--
 | Lecture 10 | 11/12/2024 | Synchronization Implementation (Part I) | [slides: <a href="./lectures/slides/Synchronization_Implementation_I.pdf" target="_blank">PDF</a>]|
 | Lecture 11 | 11/13/2024 | Synchronization Implementation (Part II) | [slides: <a href="./lectures/slides/Synchronization_Implementation_II.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
 | Lecture 12  | 11/19/2024 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>]|
