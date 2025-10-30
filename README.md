@@ -57,8 +57,8 @@ This exam session is scheduled for **Thursday, January 23, 2025**, on **two dist
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 22, 2024**, will exceptionally take place in **Room A2 "Luigi Capozzi"**, located in Via Caserta, 6 ([map](https://maps.app.goo.gl/LJKWniPbsoiKST9i7)). For additional information, please take a look at the updated class schedule available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=2076434169&single=true&urp=gmail_link).
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 15, 2024**, will exceptionally take place in **Room 101**, located in Building "D" at Viale Regina Elena, 295 ([map](https://maps.app.goo.gl/wdRtn9U5srXhzhAL6)). For additional information, please take a look at the updated class schedule available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZOo9l-8p4dZZzSSjE3S3jV2nEawAlF_fDx4U36ps06ebJseGYnFrTClKs2hLLDuLMzblqm7mLryg1/pubhtml?gid=1093460107&single=true&urp=gmail_link).
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, October 8, 2024**, will exceptionally take place in **Room 101**, located in Building "D" at Viale Regina Elena, 295 ([map](https://maps.app.goo.gl/wdRtn9U5srXhzhAL6)). For additional information, please take a look at the updated class schedule available [here](https://drive.google.com/file/d/1-10DLoZg4rfd-Ek7kJsL7uNA9t3j65bq/view).
-- **IMPORTANT ANNOUNCEMENT:** The lecture scheduled for **Thursday, November 6** is **canceled**.
 -->
+- **IMPORTANT ANNOUNCEMENT:** The lecture scheduled for **Thursday, November 6 is canceled**.
 - **IMPORTANT ANNOUNCEMENT:** Classes are **suspended from Thursday, October 30 to Wednesday, November 5, inclusive**.
 
 ## General Information
