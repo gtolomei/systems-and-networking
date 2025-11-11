@@ -180,8 +180,8 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lecture 9  | 10/21/2025 | Threads: Basics and Implementation | [slides: <a href="./lectures/slides/Threads.pdf" target="_blank">PDF</a>] [<a href="./code/threads.tgz" download="threads.tgz">code</a>]|
 | Lecture 10 | 10/23/2025 | Process/Thread Synchronization | [slides: <a href="./lectures/slides/Synchronization.pdf" target="_blank">PDF</a>]|
 | Lecture 11 | 10/28/2025 | Implementing Synchronization | [slides: <a href="./lectures/slides/Synchronization_Implementation.pdf" target="_blank">PDF</a>] [<a href="./code/synchronization.tgz" download="synchronization.tgz">code</a>]|
-| Lezione 12 | 11/11/2025 | Exercises | [<a href="./exercises/2025-11-11_Exercises.pdf" target="_blank">Questions</a>] 
-<!--[<a href="./exercises/2025-11-11_Exercises_Solutions.pdf" target="_blank">Soluzioni</a>]|
+| Lezione 12 | 11/11/2025 | Exercises | [<a href="./exercises/2025-11-11_Exercises.pdf" target="_blank">Questions</a>] [<a href="./exercises/2025-11-11_Exercises_Solutions.pdf" target="_blank">Soluzioni</a>]|
+<!--
 | Lezione 13 | 11/13/2025 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
 | Lecture 14 | 11/26/2024 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
 | Lecture 15 | 11/27/2024 | Memory Management: Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
