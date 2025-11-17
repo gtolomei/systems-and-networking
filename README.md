@@ -179,8 +179,7 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lezione 12 | 11/11/2025 | Exercises | [<a href="./exercises/2025-11-11_Exercises.pdf" target="_blank">Questions</a>] [<a href="./exercises/2025-11-11_Exercises_Solutions.pdf" target="_blank">Solutions</a>]|
 | Lezione 13 | 11/13/2025 | Deadlock | [slides: <a href="./lectures/slides/Deadlock.pdf" target="_blank">PDF</a>] |
 <!--
-| Lecture 14 | 11/26/2024 | Memory Management: Binding and Relocation | [slides: <a href="./lectures/slides/Memory_Management_Binding_and_Relocation.pdf" target="_blank">PDF</a>] |
-| Lecture 15 | 11/27/2024 | Memory Management: Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Allocation.pdf" target="_blank">PDF</a>] |
+| Lecture 14 | 11/18/2025 | Memory Management: Relocation and Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Relocation_Contiguous_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 16 | 12/03/2024 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
 | Lecture 17 | 12/04/2024 | Memory Management: Advanced Paging | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] |
 | Lecture 18 | 12/10/2024 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
