@@ -50,6 +50,8 @@ This exam session is scheduled for **Thursday, January 23, 2025**, on **two dist
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **IMPORTANT ANNOUNCEMENT:** Those who did not complete the OPIS questionnaires in class are strongly encouraged to do so as soon as possible, using the following code: **GXY5HX0R**.
 -->
+- **OPIS SURVEY:** Students who have not yet completed the OPIS evaluation survey are strongly encouraged to do so using the following code: **PPBWLIDD**. Please note that the official guidelines for completing the questionnaire are available online at this [link](https://www.uniroma1.it/sites/default/files/field_file_allegati/guided_path_to_access_student_s_opinions_questionnaire_2024_2025_0.pdf
+).
 - **IMPORTANT ANNOUNCEMENT:** The class scheduled for **Tuesday, November 25**, has been **postponed to Wednesday, November 26**, keeping the **same classroom** (Room 3, Via De Lollis) and the **same time slot (4:00-7:00 PM)**.
 At the same time, the **Systems and Networking II** class (Prof. Bartolini) will take place on **Tuesday, November 25**, instead of Wednesday, November 26, **from 4:00 to 6:00 PM.**
 - **IMPORTANT ANNOUNCEMENT:** The lecture scheduled for **Thursday, November 6 is canceled**.
