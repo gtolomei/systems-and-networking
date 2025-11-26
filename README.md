@@ -181,8 +181,8 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lecture 14 | 11/18/2025 | Memory Management: Relocation and Contiguous Allocation | [slides: <a href="./lectures/slides/Memory_Management_Relocation_Contiguous_Allocation.pdf" target="_blank">PDF</a>] |
 | Lecture 15 | 11/20/2025 | Memory Management: Paging | [slides: <a href="./lectures/slides/Paging.pdf" target="_blank">PDF</a>] |
 | Lecture 16 | 11/26/2025 | Memory Management: Advanced Paging | [slides: <a href="./lectures/slides/Advanced_Paging.pdf" target="_blank">PDF</a>] [<a href="./code/memory-allocation.tgz" download="memory-allocation.tgz">code</a>]|
+| Lecture 17 | 11/27/2025 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
 <!--
-| Lecture 17 | 12/10/2024 | Virtual Memory (Part I) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_I).pdf" target="_blank">PDF</a>] |
 | Lecture 18 | 12/11/2024 | Virtual Memory (Part II) | [slides: <a href="./lectures/slides/Virtual_Memory_(Part_II).pdf" target="_blank">PDF</a>] |
 | Lecture 19 | 12/17/2024 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/18/2024 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
