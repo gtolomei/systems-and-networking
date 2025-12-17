@@ -148,16 +148,16 @@ Although they are **not** mandatory to pass the exam successfully, the following
 - Mass storage devices
 - I/O systems
 
-**Part VI: File System**
-- File system interface
-- File system implementation
-- File system internals
+~**Part VI: File System**~
+- ~File system interface~
+- ~File system implementation~
+- ~File system internals~
 
-**Part VII: Advanced Topics(?)**
-- Protection
-- Security
-- Distributed operating systems
-- Mobile operating systems
+~**Part VII: Advanced Topics(?)**~
+- ~Protection~
+- ~Security~
+- ~Distributed operating systems~
+- ~Mobile operating systems~
 
 <hr>
 
@@ -186,6 +186,7 @@ Although they are **not** mandatory to pass the exam successfully, the following
 | Lecture 19 | 12/04/2025 | Mass Storage | [slides: <a href="./lectures/slides/Mass_Storage.pdf" target="_blank">PDF</a>] |
 | Lecture 20 | 12/11/2025 | Disk Scheduling | [slides: <a href="./lectures/slides/Mass_Storage_Disk_Scheduling.pdf" target="_blank">PDF</a>] |
 | Lecture 21 | 12/16/2025 | Exercises | [<a href="./exercises/2025-12-16_Exercises.pdf" target="_blank">Questions</a>] |
+| Lecture 22 | 12/18/2025 | Open Q&A Session | |
 <!-- [<a href="./exercises/2025-12-16_Exercises_Solutions.pdf" target="_blank">Solutions</a>]-->
 
 
