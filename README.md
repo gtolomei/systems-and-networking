@@ -41,6 +41,7 @@ Registrations to the second written exam session are now open via Google Form at
 This exam session is scheduled for **Tuesday, February 17, 2026** in **Aula Informatica 15**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). Due to the high number of participants expected, the exam will likely be held in **two separate sessions**, each lasting **45 minutes**, with a **tentative start time of 4:00 PM**. The exact starting time will be communicated after the registration period has closed.<br/>
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 -->
+- **IMPORTANT ANNOUNCEMENT:**  Due to the issues affecting Sapienza's network over the past few days, I haven't yet been able to publish the Google Form for registration for the second written exam session, scheduled for **Tuesday, February 17**. If the problem is not resolved in the coming days, I will put an alternative solution in place to collect registrations. Thank you for your patience and understanding.
 - **Oral Exam Session I**<br/> 
 The oral exam will take place on **Wednesday, January 28** and **Thursday, January 29**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Session I (01/27/2026) - Grades**<br/>
