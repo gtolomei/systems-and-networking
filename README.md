@@ -32,10 +32,12 @@ The results of the test are available at the following <a href="./exams/2024-25/
 The written extra session is scheduled for **Thursday, March 27, 2025, at 10:00 a.m.** and will take place in **Laboratorio Colossus**, located in Via Salaria, 113 ([map](https://maps.app.goo.gl/rsyaLFf7boJZDawDA)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed.
 I remind you that **only eligible students who submit their request within the deadlines set by the academic office will be allowed to register for this exam**. For organizational reasons, **no exceptions will be made**.<br/>
 Registrations to this extra exam session are now open via Google Form at the following <a href="https://forms.gle/o2qDvnb5QkDmx3SD8" target="_blank">link</a>. You'll need to log in to your institutional Google account to access the form. Just so you know, this poll closes on **Sunday, March 23, 2025, at 11:59 p.m. CET**; only students who manifest their willingness to participate by that time will be allowed to attend the exam. If you change your mind and don't want to participate in this exam session anymore, **_please update your answer on the form accordingly_**, as this will significantly help me with the organization of the test.<br/>
+-->
+<!--
 - **Oral Exam Session II**<br/> 
-The oral exam will take place on a two-day session: **Monday, February 17, at 9:30 a.m. CET** and **Wednesday, February 19, at 9:30 a.m. CET**. Please refer to the instructions sent via the Moodle forum for more information.
-- **Written Exam Session II (02/11/2025) - Grades**<br/>
-The results of the test are available at the following <a href="./exams/2024-25/2025-02-11_grades.pdf" target="_blank">link</a>.
+The oral exam will take place on **Wednesday, February 18** and, possibly, **Thursday, February 19**. Please refer to the instructions sent via the Moodle forum for more information.
+- **Written Exam Session II (02/17/2026) - Grades**<br/>
+The results of the test are available at the following <a href="./exams/2025-26/2026-02-17_grades.pdf" target="_blank">link</a>.
 -->
 - **Written Exam Session II: February 17, 2026**<br/>
 Registrations to the second written exam session are now open via Google Form at the following <a href="https://forms.gle/QcuDEbNN5N585R8U7" target="_blank">link</a>. You'll need to log in to your institutional Google account to access the form. Please note that this poll closes on **Friday, February 13, 2026, at 11:59 p.m. CET**; only students who indicate their willingness to participate by this time will be eligible to attend the exam. If you change your mind and no longer wish to participate in this exam session, **please update your answer on the form accordingly**, as this will significantly assist me in organizing the test.<br/>
