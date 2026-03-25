@@ -26,8 +26,8 @@ As a reminder, this exam session is scheduled for **Wednesday, June 4, 2025, at 
 **NOTE:** _Students who are sure they will not attend this exam session **should not** fill out this form! Besides, everyone can decide to opt in by the closing date of this poll._
 - **Oral Exam Extra Session**<br/> 
 The oral exam will take place on **Monday, March 31, at 4:00 PM CEST**. Please refer to the instructions sent via the Moodle forum for more information.
-- **Written Exam Extra Session (03/27/2025) - Grades**<br/>
-The results of the test are available at the following <a href="./exams/2024-25/2025-03-27_grades.pdf" target="_blank">link</a>.
+- **Written Exam Extra Session (03/25/2026) - Grades**<br/>
+The results of the test are available at the following <a href="./exams/2025-26/2026-03-25_grades.pdf" target="_blank">link</a>.
 -->
 - **Written Exam Extra Session: March 25, 2026**<br/> 
 The written extra session is scheduled for **Wednesday, March 25, 2026, at 10:00 AM** and will take place in **Aula Informatica 17**, located in Via Tiburtina, 205 ([map](https://goo.gl/maps/TgnJCWDfx2VQRo4u5)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed.<br/>
