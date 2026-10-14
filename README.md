@@ -4,7 +4,7 @@
 
 ## News
 - **Written Exam Extra Session (10/14/2026) - Grades**<br/>
-The results of the test are available at the following <a href="../exams/2025-26/2026-10-14_grades.pdf" target="_blank">link</a>.
+The results of the test are available at the following <a href="./exams/2025-26/2026-10-14_grades.pdf" target="_blank">link</a>.
 - **Written Exam Extra Session (10/14/2026)**<br/>
 The written extra session is scheduled for **Wednesday, October 14, 2026, at 11:30 AM** and will take place in **Laboratorio Colossus**, located in Via Salaria, 113 ([map](https://maps.app.goo.gl/rsyaLFf7boJZDawDA)). However, notice that the time schedule above is **_tentative_**, and slight changes might occur if needed.
 I remind you that **only eligible students who submit their request within the deadlines set by the academic office will be allowed to register for this exam**. For organizational reasons, **no exceptions will be made**.<br/>
