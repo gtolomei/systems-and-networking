@@ -3,6 +3,8 @@
 [News](#News) | [General Information](#General-Information) | [Syllabus](#Syllabus) | [Class Schedules](#Class-Schedules) | [Previous Years](#Previous-Years)
 
 ## News
+- **Oral Exam Extraordinary Session**<br/> 
+The oral exam will take place on **Wednesday, October 21, 2026, at 11:00 AM**. Please refer to the instructions sent via the Moodle forum for more information.
 - **Written Exam Extra Session (10/14/2026) - Grades**<br/>
 The results of the test are available at the following <a href="./exams/2025-26/2026-10-14_grades.pdf" target="_blank">link</a>.
 - **Written Exam Extra Session (10/14/2026)**<br/>
